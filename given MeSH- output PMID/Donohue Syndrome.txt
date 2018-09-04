@@ -1,0 +1,4180 @@
+
+PMID- 28803747
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180507
+LR  - 20180507
+IS  - 1873-3492 (Electronic)
+IS  - 0009-8981 (Linking)
+VI  - 473
+DP  - 2017 Oct
+TI  - Novel heterozygous mutations of the INSR gene in a familial case of Donohue
+      syndrome.
+PG  - 26-31
+LID - S0009-8981(17)30300-5 [pii]
+LID - 10.1016/j.cca.2017.08.007 [doi]
+AB  - Donohue syndrome (DS), a rare autosomal recessive disease which represents severe
+      insulin resistance, pre- and postnatal growth retardation, hypertrichosis, and
+      dysmorphic features, is caused by mutations in the insulin receptor (INSR) gene. 
+      Here, we have reported the clinical, molecular, and biochemical characterizations
+      of a patient with DS. In this article, we have also reported a case with 2 novel 
+      INSR mutations and the DS phenotype. Using next-generation sequencing (NGS), we
+      screened 27 known genes involved in inherited maturity-onset diabetes of the
+      young (MODY) and identified compound heterozygous mutations in the INSR gene in
+      the patient with DS, c.62T>G (p.L21R) and c.2563G>T (p.V855F). The positive
+      correlation of these mutations with DS was further validated by Sanger DNA
+      sequencing of his lineal consanguinity, indicating that these pathogenic
+      mutations were inherited maternally and paternally, respectively. Therefore, our 
+      finding expanded the number of reported cases of this rare disease and the
+      mutation spectrum of INSR mutation, suggesting that NGS is an accurate, rapid,
+      and cost-effective method for the genetic diagnosis of this rare disease.
+CI  - Copyright (c) 2017 Elsevier B.V. All rights reserved.
+FAU - Qin, Litao
+AU  - Qin L
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Li, Xiaobo
+AU  - Li X
+AD  - Department of Immunology, Tianjin Medical University, Tianjin, China.
+FAU - Hou, Qiaofang
+AU  - Hou Q
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Wang, Hongdan
+AU  - Wang H
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Lou, Guiyu
+AU  - Lou G
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Li, Tao
+AU  - Li T
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Wang, Li
+AU  - Wang L
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Liu, Hongyan
+AU  - Liu H
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Li, Xichuan
+AU  - Li X
+AD  - Department of Immunology, Tianjin Medical University, Tianjin, China. Electronic 
+      address: xichuanli@tmu.edu.cn.
+FAU - Liao, Shixiu
+AU  - Liao S
+AD  - Medical Genetic Institute of Henan Province, Henan Provincial People's Hospital, 
+      People's Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20170810
+PL  - Netherlands
+TA  - Clin Chim Acta
+JT  - Clinica chimica acta; international journal of clinical chemistry
+JID - 1302422
+RN  - 0 (Antigens, CD)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Antigens, CD/chemistry/*genetics
+MH  - Base Sequence
+MH  - Child, Preschool
+MH  - Donohue Syndrome/*genetics
+MH  - *Heterozygote
+MH  - Humans
+MH  - Male
+MH  - Molecular Dynamics Simulation
+MH  - *Mutation
+MH  - Protein Domains
+MH  - Receptor, Insulin/chemistry/*genetics
+OTO - NOTNLM
+OT  - Autosomal recessive
+OT  - Donohue syndrome
+OT  - INSR gene mutation
+OT  - Next-generation sequencing
+EDAT- 2017/08/15 06:00
+MHDA- 2018/05/08 06:00
+CRDT- 2017/08/15 06:00
+PHST- 2016/12/27 00:00 [received]
+PHST- 2017/08/07 00:00 [revised]
+PHST- 2017/08/09 00:00 [accepted]
+PHST- 2017/08/15 06:00 [pubmed]
+PHST- 2018/05/08 06:00 [medline]
+PHST- 2017/08/15 06:00 [entrez]
+AID - S0009-8981(17)30300-5 [pii]
+AID - 10.1016/j.cca.2017.08.007 [doi]
+PST - ppublish
+SO  - Clin Chim Acta. 2017 Oct;473:26-31. doi: 10.1016/j.cca.2017.08.007. Epub 2017 Aug
+      10.
+
+PMID- 28765322
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171002
+LR  - 20180108
+IS  - 1939-327X (Electronic)
+IS  - 0012-1797 (Linking)
+VI  - 66
+IP  - 10
+DP  - 2017 Oct
+TI  - Structural Basis and Genotype-Phenotype Correlations of INSR Mutations Causing
+      Severe Insulin Resistance.
+PG  - 2713-2723
+LID - 10.2337/db17-0301 [doi]
+AB  - The insulin receptor (INSR) gene was analyzed in four patients with severe
+      insulin resistance, revealing five novel mutations and a deletion that removed
+      exon 2. A patient with Donohue syndrome (DS) had a novel p.V657F mutation in the 
+      second fibronectin type III domain (FnIII-2), which contains the alpha-beta
+      cleavage site and part of the insulin-binding site. The mutant INSR was expressed
+      in Chinese hamster ovary cells, revealing that it reduced insulin proreceptor
+      processing and impaired activation of downstream signaling cascades. Using online
+      databases, we analyzed 82 INSR missense mutations and demonstrated that mutations
+      causing DS were more frequently located in the FnIII domains than those causing
+      the milder type A insulin resistance (P = 0.016). In silico structural analysis
+      revealed that missense mutations predicted to severely impair hydrophobic core
+      formation and stability of the FnIII domains all caused DS, whereas those
+      predicted to produce localized destabilization and to not affect folding of the
+      FnIII domains all caused the less severe Rabson-Mendenhall syndrome. These
+      results suggest the importance of the FnIII domains, provide insight into the
+      molecular mechanism of severe insulin resistance, will aid early diagnosis, and
+      will provide potential novel targets for treating extreme insulin resistance.
+CI  - (c) 2017 by the American Diabetes Association.
+FAU - Hosoe, Jun
+AU  - Hosoe J
+AUID- ORCID: 0000-0003-4244-8818
+AD  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine,
+      University of Tokyo, Tokyo, Japan.
+FAU - Kadowaki, Hiroko
+AU  - Kadowaki H
+AD  - Department of Pediatrics, Sanno Hospital, Tokyo, Japan.
+FAU - Miya, Fuyuki
+AU  - Miya F
+AD  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine,
+      University of Tokyo, Tokyo, Japan.
+AD  - Department of Medical Science Mathematics, Medical Research Institute, Tokyo
+      Medical and Dental University, Tokyo, Japan.
+AD  - Laboratory for Medical Science Mathematics, RIKEN Center for Integrative Medical 
+      Sciences, Yokohama, Japan.
+AD  - Core Research for Evolutional Science and Technology, Japan Science and
+      Technology Agency, Tokyo, Japan.
+FAU - Aizu, Katsuya
+AU  - Aizu K
+AD  - Division of Endocrinology and Metabolism, Saitama Children's Medical Center,
+      Saitama, Japan.
+FAU - Kawamura, Tomoyuki
+AU  - Kawamura T
+AD  - Department of Pediatrics, Osaka City University Graduate School of Medicine,
+      Osaka, Japan.
+FAU - Miyata, Ichiro
+AU  - Miyata I
+AD  - Department of Pediatrics, Jikei University School of Medicine, Tokyo, Japan.
+FAU - Satomura, Kenichi
+AU  - Satomura K
+AD  - Department of Pediatric Nephrology and Metabolism, Osaka Women's and Children's
+      Hospital, Osaka, Japan.
+FAU - Ito, Takeru
+AU  - Ito T
+AD  - Department of Pediatrics, Atsugi City Hospital, Kanagawa, Japan.
+FAU - Hara, Kazuo
+AU  - Hara K
+AD  - Department of Endocrinology and Metabolism, Saitama Medical Center, Jichi Medical
+      University, Saitama, Japan.
+FAU - Tanaka, Masaki
+AU  - Tanaka M
+AD  - Department of Neurology, Graduate School of Medicine, University of Tokyo, Tokyo,
+      Japan.
+FAU - Ishiura, Hiroyuki
+AU  - Ishiura H
+AD  - Department of Neurology, Graduate School of Medicine, University of Tokyo, Tokyo,
+      Japan.
+FAU - Tsuji, Shoji
+AU  - Tsuji S
+AD  - Department of Neurology, Graduate School of Medicine, University of Tokyo, Tokyo,
+      Japan.
+FAU - Suzuki, Ken
+AU  - Suzuki K
+AD  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine,
+      University of Tokyo, Tokyo, Japan.
+FAU - Takakura, Minaka
+AU  - Takakura M
+AD  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine,
+      University of Tokyo, Tokyo, Japan.
+FAU - Boroevich, Keith A
+AU  - Boroevich KA
+AD  - Laboratory for Medical Science Mathematics, RIKEN Center for Integrative Medical 
+      Sciences, Yokohama, Japan.
+FAU - Tsunoda, Tatsuhiko
+AU  - Tsunoda T
+AD  - Department of Medical Science Mathematics, Medical Research Institute, Tokyo
+      Medical and Dental University, Tokyo, Japan.
+AD  - Laboratory for Medical Science Mathematics, RIKEN Center for Integrative Medical 
+      Sciences, Yokohama, Japan.
+AD  - Core Research for Evolutional Science and Technology, Japan Science and
+      Technology Agency, Tokyo, Japan.
+FAU - Yamauchi, Toshimasa
+AU  - Yamauchi T
+AD  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine,
+      University of Tokyo, Tokyo, Japan.
+FAU - Shojima, Nobuhiro
+AU  - Shojima N
+AUID- ORCID: 0000-0002-4078-3308
+AD  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine,
+      University of Tokyo, Tokyo, Japan kadowaki-3im@h.u-tokyo.ac.jp
+      nshojima-tky@umin.ac.jp.
+FAU - Kadowaki, Takashi
+AU  - Kadowaki T
+AUID- ORCID: 0000-0001-7228-4450
+AD  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine,
+      University of Tokyo, Tokyo, Japan kadowaki-3im@h.u-tokyo.ac.jp
+      nshojima-tky@umin.ac.jp.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170801
+PL  - United States
+TA  - Diabetes
+JT  - Diabetes
+JID - 0372763
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Child, Preschool
+MH  - Donohue Syndrome/genetics
+MH  - Female
+MH  - Genotype
+MH  - Humans
+MH  - Infant
+MH  - Insulin Resistance/genetics/*physiology
+MH  - Male
+MH  - Mutation/genetics
+MH  - Mutation, Missense/genetics
+MH  - Phenotype
+MH  - Receptor, Insulin/*genetics
+EDAT- 2017/08/03 06:00
+MHDA- 2017/10/03 06:00
+CRDT- 2017/08/03 06:00
+PHST- 2017/03/09 00:00 [received]
+PHST- 2017/07/24 00:00 [accepted]
+PHST- 2017/08/03 06:00 [pubmed]
+PHST- 2017/10/03 06:00 [medline]
+PHST- 2017/08/03 06:00 [entrez]
+AID - db17-0301 [pii]
+AID - 10.2337/db17-0301 [doi]
+PST - ppublish
+SO  - Diabetes. 2017 Oct;66(10):2713-2723. doi: 10.2337/db17-0301. Epub 2017 Aug 1.
+
+PMID- 28663160
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180206
+LR  - 20180206
+IS  - 1308-5735 (Electronic)
+VI  - 9
+IP  - 4
+DP  - 2017 Dec 15
+TI  - A Mutation in INSR in a Child Presenting with Severe Acanthosis Nigricans.
+PG  - 371-374
+LID - 10.4274/jcrpe.4577 [doi]
+AB  - Rabson-Mendenhall syndrome (RMS) is an autosomal recessive disorder due to
+      mutations in the insulin receptor gene (INSR) which is mapped to 19p13.2. RMS is 
+      characterized by acanthosis nigricans, generalized lanugo, tooth and nail
+      dysplasia, high nasal bridge, and growth retardation. A 5-year-old female patient
+      was referred due to acanthosis nigricans and generalized lanugo. On her physical 
+      examination, severe acanthosis nigricans of the neck, axillae, the external
+      genitalia and antecubital regions, generalized lanugo, mildly decreased
+      subcutaneous fat, dysmorphic facial features, and polydactyly on her left hand
+      were noted. Insulin resistance and impaired glucose tolerance were found.
+      Sequence analysis of the INSR in the patient revealed c.3529+5G>A mutation in
+      homozygous state. RMS should be suspected in a patient with characteristic
+      physical features and insulin resistance.
+FAU - Tuhan, Hale
+AU  - Tuhan H
+AD  - Dokuz Eylul University Faculty of Medicine, Department of Pediatric
+      Endocrinology, Izmir, Turkey.
+FAU - Ceylaner, Serdar
+AU  - Ceylaner S
+AD  - Intergen Genetics Centre, Ankara, Turkey.
+FAU - Nalbantoglu, Ozlem
+AU  - Nalbantoglu O
+AD  - University of Health Sciences, Dr. Behcet Uz Children Diseases and Surgery
+      Training and Research Hospital, Department of Pediatric Endocrinology, Izmir,
+      Turkey.
+FAU - Acar, Sezer
+AU  - Acar S
+AD  - Dokuz Eylul University Faculty of Medicine, Department of Pediatric
+      Endocrinology, Izmir, Turkey.
+FAU - Abaci, Ayhan
+AU  - Abaci A
+AD  - Dokuz Eylul University Faculty of Medicine, Department of Pediatric
+      Endocrinology, Izmir, Turkey.
+FAU - Bober, Ece
+AU  - Bober E
+AD  - Dokuz Eylul University Faculty of Medicine, Department of Pediatric
+      Endocrinology, Izmir, Turkey.
+FAU - Demir, Korcan
+AU  - Demir K
+AD  - Dokuz Eylul University Faculty of Medicine, Department of Pediatric
+      Endocrinology, Izmir, Turkey.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20170630
+PL  - Turkey
+TA  - J Clin Res Pediatr Endocrinol
+JT  - Journal of clinical research in pediatric endocrinology
+JID - 101519456
+RN  - 0 (Antigens, CD)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Acanthosis Nigricans/*genetics
+MH  - Antigens, CD/*genetics
+MH  - Child, Preschool
+MH  - Donohue Syndrome/genetics
+MH  - Female
+MH  - Humans
+MH  - *Mutation, Missense
+MH  - Receptor, Insulin/*genetics
+MH  - Severity of Illness Index
+PMC - PMC5785646
+OTO - NOTNLM
+OT  - Rabson-Mendenhall syndrome
+OT  - insulin resistance INSR.
+EDAT- 2017/07/01 06:00
+MHDA- 2018/02/07 06:00
+CRDT- 2017/07/01 06:00
+PHST- 2017/07/01 06:00 [pubmed]
+PHST- 2018/02/07 06:00 [medline]
+PHST- 2017/07/01 06:00 [entrez]
+AID - 10.4274/jcrpe.4577 [doi]
+PST - ppublish
+SO  - J Clin Res Pediatr Endocrinol. 2017 Dec 15;9(4):371-374. doi: 10.4274/jcrpe.4577.
+      Epub 2017 Jun 30.
+
+PMID- 27840822
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170119
+LR  - 20170220
+IS  - 2314-6141 (Electronic)
+VI  - 2016
+DP  - 2016
+TI  - Computational Analysis of Damaging Single-Nucleotide Polymorphisms and Their
+      Structural and Functional Impact on the Insulin Receptor.
+PG  - 2023803
+AB  - Single-nucleotide polymorphisms (SNPs) associated with complex disorders can
+      create, destroy, or modify protein coding sites. Single amino acid substitutions 
+      in the insulin receptor (INSR) are the most common forms of genetic variations
+      that account for various diseases like Donohue syndrome or Leprechaunism,
+      Rabson-Mendenhall syndrome, and type A insulin resistance. We analyzed the
+      deleterious nonsynonymous SNPs (nsSNPs) in INSR gene based on different
+      computational methods. Analysis of INSR was initiated with PROVEAN followed by
+      PolyPhen and I-Mutant servers to investigate the effects of 57 nsSNPs retrieved
+      from database of SNP (dbSNP). A total of 18 mutations that were found to exert
+      damaging effects on the INSR protein structure and function were chosen for
+      further analysis. Among these mutations, our computational analysis suggested
+      that 13 nsSNPs decreased protein stability and might have resulted in loss of
+      function. Therefore, the probability of their involvement in disease
+      predisposition increases. In the lack of adequate prior reports on the possible
+      deleterious effects of nsSNPs, we have systematically analyzed and characterized 
+      the functional variants in coding region that can alter the expression and
+      function of INSR gene. In silico characterization of nsSNPs affecting INSR gene
+      function can aid in better understanding of genetic differences in disease
+      susceptibility.
+FAU - Mahmud, Zabed
+AU  - Mahmud Z
+AD  - Department of Genetic Engineering and Biotechnology, Shahjalal University of
+      Science and Technology, Sylhet 3114, Bangladesh.
+FAU - Malik, Syeda Umme Fahmida
+AU  - Malik SU
+AD  - Department of Genetic Engineering and Biotechnology, Shahjalal University of
+      Science and Technology, Sylhet 3114, Bangladesh; Department of Biochemistry,
+      North East Medical College Hospital, South Surma, Sylhet 3100, Bangladesh.
+FAU - Ahmed, Jahed
+AU  - Ahmed J
+AD  - Department of Genetic Engineering and Biotechnology, Shahjalal University of
+      Science and Technology, Sylhet 3114, Bangladesh.
+FAU - Azad, Abul Kalam
+AU  - Azad AK
+AUID- ORCID: 0000-0003-1918-3268
+AD  - Department of Genetic Engineering and Biotechnology, Shahjalal University of
+      Science and Technology, Sylhet 3114, Bangladesh.
+LA  - eng
+PT  - Journal Article
+DEP - 20161020
+PL  - United States
+TA  - Biomed Res Int
+JT  - BioMed research international
+JID - 101600173
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Amino Acid Substitution/genetics
+MH  - Computational Biology
+MH  - Donohue Syndrome/*genetics/pathology
+MH  - Humans
+MH  - Insulin Resistance/*genetics
+MH  - Mutation
+MH  - Polymorphism, Single Nucleotide/*genetics
+MH  - Protein Conformation
+MH  - Receptor, Insulin/*chemistry/genetics
+PMC - PMC5093252
+EDAT- 2016/11/15 06:00
+MHDA- 2017/01/20 06:00
+CRDT- 2016/11/15 06:00
+PHST- 2016/07/17 00:00 [received]
+PHST- 2016/09/14 00:00 [accepted]
+PHST- 2016/11/15 06:00 [entrez]
+PHST- 2016/11/15 06:00 [pubmed]
+PHST- 2017/01/20 06:00 [medline]
+AID - 10.1155/2016/2023803 [doi]
+PST - ppublish
+SO  - Biomed Res Int. 2016;2016:2023803. doi: 10.1155/2016/2023803. Epub 2016 Oct 20.
+
+PMID- 27326825
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170428
+LR  - 20170428
+IS  - 1663-2826 (Electronic)
+IS  - 1663-2818 (Linking)
+VI  - 87
+IP  - 1
+DP  - 2017
+TI  - Identification of a Novel Homozygous INSR Variant in a Patient with
+      Rabson-Mendenhall Syndrome from the United Arab Emirates.
+PG  - 64-68
+LID - 10.1159/000447090 [doi]
+AB  - BACKGROUND/AIMS: This study aimed to identify, clinically and molecularly, the
+      causality of Rabson-Mendenhall syndrome in an Emirati family. It is one of the
+      monogenic syndromes of abnormal glucose homeostasis, which result from insulin
+      receptor defects. METHODS: A novel nonsynonymous variant in the INSR gene was
+      uncovered by whole exome sequencing and confirmed using Sanger sequencing in the 
+      patient and his parents. Various in silico tools were utilized to analyze the
+      functional consequences of the variant. RESULTS: Results revealed a previously
+      unreported INSR variant in the family: c.421C>T (p.Arg141Trp). Homozygosity for
+      the variant was found in the patient, while both parents were heterozygous.
+      CONCLUSION: The nonsynonymous protein change hit a highly conserved arginine
+      residue in the insulin-binding alpha-subunit of the receptor and was deemed
+      'functionally damaging' by a myriad of bioinformatics tools. This report is a
+      step forward along the way of achieving a better molecular and clinical
+      characterization of Rabson-Mendenhall syndrome.
+CI  - (c) 2016 S. Karger AG, Basel.
+FAU - Bastaki, Fatma
+AU  - Bastaki F
+AD  - Pediatric Department, Latifa Hospital, Dubai Health Authority, Dubai, United Arab
+      Emirates.
+FAU - Nair, Pratibha
+AU  - Nair P
+FAU - Mohamed, Madiha
+AU  - Mohamed M
+FAU - Khadora, Manal Mustafa
+AU  - Khadora MM
+FAU - Saif, Fatima
+AU  - Saif F
+FAU - Tawfiq, Nafisa
+AU  - Tawfiq N
+FAU - Al-Ali, Mahmoud Taleb
+AU  - Al-Ali MT
+FAU - Hamzeh, Abdul Rezzak
+AU  - Hamzeh AR
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20160622
+PL  - Switzerland
+TA  - Horm Res Paediatr
+JT  - Hormone research in paediatrics
+JID - 101525157
+RN  - 0 (Antigens, CD)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Adult
+MH  - Amino Acid Substitution
+MH  - Antigens, CD/*genetics
+MH  - Child, Preschool
+MH  - Donohue Syndrome/*genetics
+MH  - Family
+MH  - Female
+MH  - *Homozygote
+MH  - Humans
+MH  - Male
+MH  - *Mutation, Missense
+MH  - Receptor, Insulin/*genetics
+MH  - United Arab Emirates
+EDAT- 2016/06/22 06:00
+MHDA- 2017/04/30 06:00
+CRDT- 2016/06/22 06:00
+PHST- 2016/03/11 00:00 [received]
+PHST- 2016/05/19 00:00 [accepted]
+PHST- 2016/06/22 06:00 [pubmed]
+PHST- 2017/04/30 06:00 [medline]
+PHST- 2016/06/22 06:00 [entrez]
+AID - 000447090 [pii]
+AID - 10.1159/000447090 [doi]
+PST - ppublish
+SO  - Horm Res Paediatr. 2017;87(1):64-68. doi: 10.1159/000447090. Epub 2016 Jun 22.
+
+PMID- 27112737
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180419
+LR  - 20180419
+IS  - 1531-1937 (Electronic)
+IS  - 0897-1900 (Linking)
+VI  - 30
+IP  - 4
+DP  - 2017 Aug
+TI  - Treatment of Diabetic Ketoacidosis With Intravenous U-500 Insulin in a Patient
+      With Rabson-Mendenhall Syndrome: A Case Report.
+PG  - 468-475
+LID - 10.1177/0897190016645036 [doi]
+AB  - Rabson-Mendenhall syndrome is a rare genetic disorder resulting from mutations in
+      the insulin receptor and is associated with high degrees of insulin resistance.
+      These patients are prone to complications secondary to their hyperglycemia
+      including diabetic ketoacidosis (DKA). We report the case of a 19-year-old male
+      with Rabson-Mendenhall syndrome presenting with DKA who required doses of up to
+      500 U/h (10.6 U/kg/h) of insulin. The patient's insulin infusion was originally
+      compounded with U-100 regular insulin, although to minimize volume, the product
+      was compounded with U-500 insulin. The DKA eventually resolved requiring infusion
+      rates ranging from 400 to 500 U/h. Although numerous opportunities for medication
+      errors exist with the use of U-500 insulin, this case outlines the safe use of
+      concentrated intravenous insulin when clinically indicated for patients requiring
+      extremely high doses of insulin to control blood glucose.
+FAU - Moore, Megan M
+AU  - Moore MM
+AD  - 1 University of Kentucky College of Pharmacy, Lexington, KY, USA.
+FAU - Bailey, Abby M
+AU  - Bailey AM
+AD  - 2 Department of Pharmacy, University of Kentucky HealthCare, Lexington, KY, USA.
+AD  - 3 Department of Pharmacy Practice and Science, University of Kentucky College of 
+      Pharmacy, Lexington, KY, USA.
+FAU - Flannery, Alexander H
+AU  - Flannery AH
+AD  - 2 Department of Pharmacy, University of Kentucky HealthCare, Lexington, KY, USA.
+AD  - 3 Department of Pharmacy Practice and Science, University of Kentucky College of 
+      Pharmacy, Lexington, KY, USA.
+FAU - Baum, Regan A
+AU  - Baum RA
+AD  - 2 Department of Pharmacy, University of Kentucky HealthCare, Lexington, KY, USA.
+AD  - 3 Department of Pharmacy Practice and Science, University of Kentucky College of 
+      Pharmacy, Lexington, KY, USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20160424
+PL  - United States
+TA  - J Pharm Pract
+JT  - Journal of pharmacy practice
+JID - 8900945
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Diabetic Ketoacidosis/*complications/*drug therapy
+MH  - Donohue Syndrome/*complications/*drug therapy
+MH  - Humans
+MH  - Hypoglycemic Agents/administration & dosage
+MH  - Infusions, Intravenous
+MH  - Insulin/*administration & dosage
+MH  - Male
+MH  - Treatment Outcome
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Rabson-Mendenhall syndrome
+OT  - U-500 insulin
+OT  - diabetic ketoacidosis
+OT  - medication error
+EDAT- 2016/04/27 06:00
+MHDA- 2018/04/20 06:00
+CRDT- 2016/04/27 06:00
+PHST- 2016/04/27 06:00 [pubmed]
+PHST- 2018/04/20 06:00 [medline]
+PHST- 2016/04/27 06:00 [entrez]
+AID - 0897190016645036 [pii]
+AID - 10.1177/0897190016645036 [doi]
+PST - ppublish
+SO  - J Pharm Pract. 2017 Aug;30(4):468-475. doi: 10.1177/0897190016645036. Epub 2016
+      Apr 24.
+
+PMID- 26974131
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170421
+LR  - 20170421
+IS  - 2191-0251 (Electronic)
+IS  - 0334-018X (Linking)
+VI  - 29
+IP  - 6
+DP  - 2016 Jun 1
+TI  - Arg924X homozygous mutation in insulin receptor gene in a Tunisian patient with
+      Donohue syndrome.
+PG  - 753-6
+LID - 10.1515/jpem-2015-0232 [doi]
+LID - /j/jpem.2016.29.issue-6/jpem-2015-0232/jpem-2015-0232.xml [pii]
+AB  - Donohue syndrome (DS) is a rare and lethal autosomal recessive disease caused by 
+      mutations in the insulin receptor (INSR) gene, manifesting marked insulin
+      resistance, severe growth retardation, hypertrichosis, and characteristic
+      dysmorphic features. We describe a new case of Donohue syndrome born at 37 weeks'
+      gestation of unrelated parents and presented with intra-uterine growth
+      retardation, nipple hypertrophy, macropenis, distended abdomen, hirsutism and
+      dysmorphic features. The clinical course showed failure to thrive, and episodes
+      of alternating hypoglycemia and hyperglycemia. Laboratory tests revealed direct
+      hyperbilirubinemia. The diagnosis of Donohue syndrome was established based on
+      the above clinical characteristics and determination of the INSR mutation. He was
+      found to have homozygous nonsense mutation c. 2270 C>T (Arg924X) at exon 14 of
+      the INSR gene. He later developed enterocolitis and died at 3 months old.
+      Prenatal diagnosis was performed for the family via chorionic villous biopsy. We 
+      try to explain gastrointestinal dysfunction seen in our patient.
+FAU - Azzabi, Ons
+AU  - Azzabi O
+FAU - Jilani, Houweyda
+AU  - Jilani H
+FAU - Rejeb, Imen
+AU  - Rejeb I
+FAU - Siala, Nadia
+AU  - Siala N
+FAU - Elaribi, Yasmina
+AU  - Elaribi Y
+FAU - Hizem, Syrine
+AU  - Hizem S
+FAU - Selmi, Ines
+AU  - Selmi I
+FAU - Halioui, Sonia
+AU  - Halioui S
+FAU - Lascols, Olivier
+AU  - Lascols O
+FAU - Jemaa, Lamia Ben
+AU  - Jemaa LB
+FAU - Maherzi, Ahmed
+AU  - Maherzi A
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Germany
+TA  - J Pediatr Endocrinol Metab
+JT  - Journal of pediatric endocrinology & metabolism : JPEM
+JID - 9508900
+RN  - 0 (Antigens, CD)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Antigens, CD/*genetics
+MH  - Donohue Syndrome/*genetics
+MH  - Homozygote
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - *Mutation
+MH  - Receptor, Insulin/*genetics
+EDAT- 2016/03/15 06:00
+MHDA- 2017/04/22 06:00
+CRDT- 2016/03/15 06:00
+PHST- 2015/06/10 00:00 [received]
+PHST- 2016/01/15 00:00 [accepted]
+PHST- 2016/03/15 06:00 [entrez]
+PHST- 2016/03/15 06:00 [pubmed]
+PHST- 2017/04/22 06:00 [medline]
+AID - 10.1515/jpem-2015-0232 [doi]
+AID - /j/jpem.ahead-of-print/jpem-2015-0232/jpem-2015-0232.xml [pii]
+PST - ppublish
+SO  - J Pediatr Endocrinol Metab. 2016 Jun 1;29(6):753-6. doi: 10.1515/jpem-2015-0232.
+
+PMID- 26874853
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161028
+LR  - 20171030
+IS  - 1573-4978 (Electronic)
+IS  - 0301-4851 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2016 Mar
+TI  - First molecular diagnosis of Donohue syndrome in Africa: novel unusual
+      insertion/deletion mutation in the INSR gene.
+PG  - 165-73
+LID - 10.1007/s11033-016-3951-9 [doi]
+AB  - Donohue syndrome (DS) is a very rare autosomal recessive disease affecting less
+      than one in a million life births. It represents the most severe form of insulin 
+      resistance due to mutations involving the insulin receptor (IR) gene "INSR". DS
+      is characterized by pre- and postnatal growth retardation with failure-to-thrive,
+      lipoatrophy, acanthosis nigricans, hypertrichosis, and dysmorphic features. An
+      exhaustive INSR gene sequencing was performed after PCR amplification of coding
+      exons and introns boundaries. Bioinformatic tools, including ESEfinder, MFOLD and
+      Proter software were also used to predict the impact of INSR mutation on INSR on 
+      gene expression as well as on the protein structure and function. The results
+      have shown a novel unusual c.3003_3012delinsGGAAG (p.S1001_D1004delinsRE)
+      insertion/deletion (indel) mutation within the exon 16 in the three patients,
+      which represent the fourth indel mutation within the INSR gene. The mutation
+      modifies the secondary structure of DNA and RNA, as well as the composition of
+      exonic splicing enhancers of exon 16. Moreover, despite the conservation of the
+      secondary structure of the IR, the p.S1001_D1004delinsRE in-frame mutation is
+      accompanied by the loss of four amino acids replaced by two residues of different
+      nature and hydrophobicity level in the juxtamembrane domain of the receptor. The 
+      results have confirmed the role of the juxtamembrane domain of IR involved in a
+      crucial interaction of the IR with cellular effectors essentially the IR
+      substrate 1 (IRS-1), the SHC and the Nck proteins that ensure the signal mediated
+      by the insulin transduction pathway in target cells. Our findings have also
+      proven the genotype/phenotype correlation between INSR mutation and DS phenotype 
+      severity.
+FAU - Siala-Sahnoun, Olfa
+AU  - Siala-Sahnoun O
+AD  - Live Sciences Department, Faculty of Sciences of Sfax, Sfax, Tunisia.
+      olfasiala9@gmail.com.
+FAU - Dhieb, Dhoha
+AU  - Dhieb D
+AD  - Laboratory of Human Molecular Genetics, Medicine Faculty of Sfax, Sfax, Tunisia.
+FAU - Ben Thabet, Afef
+AU  - Ben Thabet A
+AD  - Neonatology Service, EPS Hedi Chaker, Sfax, Tunisia.
+FAU - Hmida, Nedia
+AU  - Hmida N
+AD  - Neonatology Service, EPS Hedi Chaker, Sfax, Tunisia.
+FAU - Belguith, Neila
+AU  - Belguith N
+AD  - Laboratory of Medical Genetics, EPS Hedi Chaker, Sfax, Tunisia.
+FAU - Fakhfakh, Faiza
+AU  - Fakhfakh F
+AD  - Live Sciences Department, Faculty of Sciences of Sfax, Sfax, Tunisia.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160213
+PL  - Netherlands
+TA  - Mol Biol Rep
+JT  - Molecular biology reports
+JID - 0403234
+RN  - 0 (Adaptor Proteins, Signal Transducing)
+RN  - 0 (Antigens, CD)
+RN  - 0 (IRS1 protein, human)
+RN  - 0 (Insulin Receptor Substrate Proteins)
+RN  - 0 (Nck protein)
+RN  - 0 (Oncogene Proteins)
+RN  - 0 (Shc Signaling Adaptor Proteins)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Adaptor Proteins, Signal Transducing/metabolism
+MH  - Africa
+MH  - Amino Acid Sequence
+MH  - Antigens, CD/*genetics/metabolism
+MH  - Donohue Syndrome/genetics/*metabolism
+MH  - Female
+MH  - Gene Expression
+MH  - Humans
+MH  - *INDEL Mutation
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Insulin Receptor Substrate Proteins/metabolism
+MH  - Male
+MH  - Molecular Sequence Data
+MH  - Oncogene Proteins/metabolism
+MH  - Protein Structure, Secondary
+MH  - Receptor, Insulin/*genetics/metabolism
+MH  - Sequence Alignment
+MH  - Sequence Analysis, DNA
+MH  - Shc Signaling Adaptor Proteins/metabolism
+MH  - *Signal Transduction
+OTO - NOTNLM
+OT  - Donohue syndrome
+OT  - Exonic splicing enhancer
+OT  - INSR gene
+OT  - Indel mutation
+OT  - Insulin receptor
+EDAT- 2016/02/15 06:00
+MHDA- 2016/11/01 06:00
+CRDT- 2016/02/15 06:00
+PHST- 2015/09/30 00:00 [received]
+PHST- 2016/02/09 00:00 [accepted]
+PHST- 2016/02/15 06:00 [entrez]
+PHST- 2016/02/15 06:00 [pubmed]
+PHST- 2016/11/01 06:00 [medline]
+AID - 10.1007/s11033-016-3951-9 [doi]
+AID - 10.1007/s11033-016-3951-9 [pii]
+PST - ppublish
+SO  - Mol Biol Rep. 2016 Mar;43(3):165-73. doi: 10.1007/s11033-016-3951-9. Epub 2016
+      Feb 13.
+
+PMID- 26871809
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160627
+LR  - 20160227
+IS  - 1536-5964 (Electronic)
+IS  - 0025-7974 (Linking)
+VI  - 95
+IP  - 6
+DP  - 2016 Feb
+TI  - Classic Case Report of Donohue Syndrome (Leprechaunism; OMIM *246200): The Impact
+      of Consanguineous Mating.
+PG  - e2710
+LID - 10.1097/MD.0000000000002710 [doi]
+AB  - Donohue syndrome ([DS]; leprechaunism) describes a genetic autosomal recessive
+      disorder that results from the presence of homozygous or compound heterozygous
+      mutations in the insulin receptor gene (INSR; 19p13.3-p13.2).Donohue syndrome is 
+      associated with a fatal congenital form of dwarfism with features of intrauterine
+      and postnatal growth retardation, exaggerated hyperglycemia with hyperinsulinism 
+      and dysmorphic abnormalities.We present a case of DS owing to the rarity of this 
+      syndrome (1 case in every million births). We discuss how the disease presents,
+      its genetic underpinning, and its prevention.The case was encountered in an Arab 
+      male born on 1 September, 2014, for consanguineous parents. The delivery was via 
+      cesarean section at 37 weeks gestation due to severe intrauterine growth
+      restriction and nonprogress labor term. The patient was admitted to the Neonatal 
+      Intensive Care Unit due to infection, and jaundice. Dysmorphic features,
+      abnormalities of the craniofacial region, low birth weight, skin abnormalities,
+      abdominal distension and hypertrichosis were observed. Laboratory examinations
+      showed, hyperinsulinism, increased C-peptide, thrombocytopenia, leucopenia, and
+      anemia.The diagnosis of DS was done based on the combinations of typical
+      dysmorphic characteristics, clinical evaluation, supported by genetic analysis
+      and exaggerated biochemical results. Genetic diagnosis of DS was performed
+      through analysis of DNA via polymerase chain reaction (PCR). A qualitative
+      real-time PCR was used, to monitor the amplification of a targeted DNA molecule
+      during the PCR. Other technique using sequencing of the INSR gene, which permits 
+      genetic diagnosis, counseling, and antenatal diagnoses in subsequent pregnancies,
+      were also performed.Treatment of DS is supportive and requires the combined
+      efforts of a multidisciplinary team, which include pediatricians,
+      endocrinologists, dermatologists, and other health care professionals. Currently,
+      treatment with recombinant insulin-like growth factor 1 demonstrates
+      effectiveness, and a combination treatment with insulin-like growth factor
+      binding protein 3 resulted in an increased lifespan.There is a scarcity of
+      genetic information on DS among the Arab population. Consanguinity is one of
+      underlying reasons for the appearance of rare genetic disorders. Inbreeding has
+      long been considered a controversial phenomenon. Genetic counseling and
+      overwhelming the alertness of the negative consequences of consanguinity on
+      public health are warranted.
+FAU - Nijim, Yousif
+AU  - Nijim Y
+AD  - From the Pediatric and Neonatal Department, EMMS Nazareth-The Nazareth Hospital, 
+      Galilee Medical School-Bar-Ilan University (YN); Orthopedic Medicine, Medical
+      Consulting Center, Nazareth Towers, General Medical Services "Sheruti Briut
+      Clalit," Galilee Medical School-Bar-Ilan University (YA); Pediatric and Neonatal 
+      Department, EMMS Nazareth-The Nazareth Hospital, Galilee Medical School, Galilee 
+      Medical School-Bar-Ilan University (AA); and Clinical Neuroscience,
+      Neuropsychopharmacology & Population Genetics, Research Center, EMMS Hospital,
+      Nazareth-The Nazareth Hospital (AB), Israel.
+FAU - Awni, Youssef
+AU  - Awni Y
+FAU - Adawi, Amin
+AU  - Adawi A
+FAU - Bowirrat, Abdalla
+AU  - Bowirrat A
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - Medicine (Baltimore)
+JT  - Medicine
+JID - 2985248R
+SB  - AIM
+SB  - IM
+MH  - Consanguinity
+MH  - Donohue Syndrome/*diagnosis/genetics
+MH  - Fatal Outcome
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Male
+PMC - PMC4753905
+EDAT- 2016/02/13 06:00
+MHDA- 2016/06/28 06:00
+CRDT- 2016/02/13 06:00
+PHST- 2016/02/13 06:00 [entrez]
+PHST- 2016/02/13 06:00 [pubmed]
+PHST- 2016/06/28 06:00 [medline]
+AID - 10.1097/MD.0000000000002710 [doi]
+AID - 00005792-201602090-00052 [pii]
+PST - ppublish
+SO  - Medicine (Baltimore). 2016 Feb;95(6):e2710. doi: 10.1097/MD.0000000000002710.
+
+PMID- 26691667
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161018
+LR  - 20161230
+IS  - 1878-0849 (Electronic)
+IS  - 1769-7212 (Linking)
+VI  - 59
+IP  - 1
+DP  - 2016 Jan
+TI  - A novel homozygous missense mutation in the insulin receptor gene results in an
+      atypical presentation of Rabson-Mendenhall syndrome.
+PG  - 16-9
+LID - 10.1016/j.ejmg.2015.11.015 [doi]
+LID - S1769-7212(15)30053-7 [pii]
+AB  - Leprechaunism (Donohue syndrome) and Rabson-Mendenhall syndrome are caused by
+      mutations in the insulin receptor gene and are associated with extreme insulin
+      resistance. Clinically these syndromes appear to represent points on a continuum 
+      of severity of receptor dysfunction, rather than completely distinct syndromes.
+      We investigated a Libyan infant with growth retardation, facial dysmorphism
+      (elfin-like features), acanthosis nigricans and hirsutism. Fasting hypoglycaemia 
+      and postprandial hyperglycaemia with persistent hyperinsulinemia were found. A
+      novel homozygous missense mutation was found in exon 2, resulting in a
+      substitution of a glycine-132 for a serine in the INSR alpha-subunit (c.394G > A;
+      p.Gly132Ser). At age ten, he developed diabetes mellitus. At age eleven, patient 
+      is still alive with mental retardation and severe growth retardation.
+CI  - Copyright (c) 2015 Elsevier Masson SAS. All rights reserved.
+FAU - Ben Abdelaziz, Rim
+AU  - Ben Abdelaziz R
+AD  - Department of Paediatrics, La Rabta Hospital, Tunis, Tunisia; Tunis El Manar
+      University, Faculty of Medicine of Tunis, Tunisia. Electronic address:
+      rimbenabdelaziz@yahoo.fr.
+FAU - Ben Chehida, Amel
+AU  - Ben Chehida A
+AD  - Department of Paediatrics, La Rabta Hospital, Tunis, Tunisia; Tunis El Manar
+      University, Faculty of Medicine of Tunis, Tunisia.
+FAU - Azzouz, Hatem
+AU  - Azzouz H
+AD  - Department of Paediatrics, La Rabta Hospital, Tunis, Tunisia; Tunis El Manar
+      University, Faculty of Medicine of Tunis, Tunisia.
+FAU - Boudabbous, Hela
+AU  - Boudabbous H
+AD  - Department of Paediatrics, La Rabta Hospital, Tunis, Tunisia; Tunis El Manar
+      University, Faculty of Medicine of Tunis, Tunisia.
+FAU - Lascols, Olivier
+AU  - Lascols O
+AD  - Department of Biology and Molecular Genetics, Saint-Antoine Hospital, Paris,
+      France.
+FAU - Ben Turkia, Hadhami
+AU  - Ben Turkia H
+AD  - Department of Paediatrics, La Rabta Hospital, Tunis, Tunisia; Tunis El Manar
+      University, Faculty of Medicine of Tunis, Tunisia.
+FAU - Tebib, Neji
+AU  - Tebib N
+AD  - Department of Paediatrics, La Rabta Hospital, Tunis, Tunisia; Tunis El Manar
+      University, Faculty of Medicine of Tunis, Tunisia.
+LA  - eng
+PT  - Journal Article
+DEP - 20151209
+PL  - Netherlands
+TA  - Eur J Med Genet
+JT  - European journal of medical genetics
+JID - 101247089
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - DNA Mutational Analysis
+MH  - Donohue Syndrome/*genetics/metabolism
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Molecular Sequence Data
+MH  - *Mutation, Missense
+MH  - Receptor, Insulin/chemistry/*genetics/metabolism
+MH  - Sequence Alignment
+OTO - NOTNLM
+OT  - Insulin receptor
+OT  - Insulin receptor gene
+OT  - Insulin-resistance
+OT  - Leprechaunism
+EDAT- 2015/12/23 06:00
+MHDA- 2016/10/19 06:00
+CRDT- 2015/12/23 06:00
+PHST- 2015/04/17 00:00 [received]
+PHST- 2015/10/11 00:00 [revised]
+PHST- 2015/11/30 00:00 [accepted]
+PHST- 2015/12/23 06:00 [entrez]
+PHST- 2015/12/23 06:00 [pubmed]
+PHST- 2016/10/19 06:00 [medline]
+AID - S1769-7212(15)30053-7 [pii]
+AID - 10.1016/j.ejmg.2015.11.015 [doi]
+PST - ppublish
+SO  - Eur J Med Genet. 2016 Jan;59(1):16-9. doi: 10.1016/j.ejmg.2015.11.015. Epub 2015 
+      Dec 9.
+
+PMID- 26619761
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171026
+LR  - 20171026
+IS  - 1579-2021 (Electronic)
+IS  - 1575-0922 (Linking)
+VI  - 63
+IP  - 1
+DP  - 2016 Jan
+TI  - Donohue syndrome. Extreme insulin resistance in the neonatal period.
+PG  - 45-6
+LID - 10.1016/j.endonu.2015.10.002 [doi]
+LID - S1575-0922(15)00261-2 [pii]
+FAU - Sanchez-Hernandez, Rosa Maria
+AU  - Sanchez-Hernandez RM
+AD  - Unidad de Diabetes Pediatrica, Servicio de Pediatria, Hospital Universitario
+      Ramon y Cajal, Madrid, Espana. Electronic address: rosamariasanher@gmail.com.
+FAU - Martin-Frias, Maria
+AU  - Martin-Frias M
+AD  - Laboratorio de Genetica Molecular, Hospital Universitario de Cruces, Baracaldo,
+      Vizcaya, Espana.
+FAU - Castano, Luis
+AU  - Castano L
+AD  - Unidad de Neumologia, Servicio de Pediatria, Hospital Universitario Ramon y
+      Cajal, Madrid, Espana.
+FAU - Lamas, Adelaida
+AU  - Lamas A
+AD  - Unidad de Neumologia, Servicio de Pediatria, Hospital Universitario Ramon y
+      Cajal, Madrid, Espana.
+FAU - Barrio, Raquel
+AU  - Barrio R
+AD  - Unidad de Diabetes Pediatrica, Servicio de Pediatria, Hospital Universitario
+      Ramon y Cajal, Madrid, Espana.
+LA  - eng
+LA  - spa
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20151125
+PL  - Spain
+TA  - Endocrinol Nutr
+JT  - Endocrinologia y nutricion : organo de la Sociedad Espanola de Endocrinologia y
+      Nutricion
+JID - 100886482
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Donohue Syndrome/*physiopathology
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - *Insulin Resistance
+MH  - Male
+MH  - Receptor, Insulin/genetics
+EDAT- 2015/12/02 06:00
+MHDA- 2017/10/27 06:00
+CRDT- 2015/12/02 06:00
+PHST- 2015/07/26 00:00 [received]
+PHST- 2015/10/05 00:00 [revised]
+PHST- 2015/10/06 00:00 [accepted]
+PHST- 2015/12/02 06:00 [entrez]
+PHST- 2015/12/02 06:00 [pubmed]
+PHST- 2017/10/27 06:00 [medline]
+AID - S1575-0922(15)00261-2 [pii]
+AID - 10.1016/j.endonu.2015.10.002 [doi]
+PST - ppublish
+SO  - Endocrinol Nutr. 2016 Jan;63(1):45-6. doi: 10.1016/j.endonu.2015.10.002. Epub
+      2015 Nov 25.
+
+PMID- 26555333
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170110
+LR  - 20170111
+IS  - 1467-1107 (Electronic)
+IS  - 1047-9511 (Linking)
+VI  - 26
+IP  - 4
+DP  - 2016 Apr
+TI  - Hypertrophic cardiomyopathy in Donohue syndrome.
+PG  - 815-8
+LID - 10.1017/S1047951115002437 [doi]
+AB  - We report the case of a patient with Donohue syndrome who died of heart failure
+      due to obstructive hypertrophic cardiomyopathy. A literature survey revealed that
+      hypertrophic cardiomyopathy was present in 30% of these patients and was often
+      fatal. Therefore, every patient with Donohue syndrome should be screened for
+      hypertrophic cardiomyopathy.
+FAU - Termote, Jacqueline U M
+AU  - Termote JU
+AD  - 1Department of Neonatology,Wilhelmina Children's Hospital,University Medical
+      Centre,Utrecht,The Netherlands.
+FAU - Breur, Johannes M P J
+AU  - Breur JM
+AD  - 2Department of Paediatric Cardiology,Wilhelmina Children's Hospital,University
+      Medical Centre,Utrecht,The Netherlands.
+FAU - de Vroede, Monique A M J
+AU  - de Vroede MA
+AD  - 3Department of Paediatric Endocrinology,Wilhelmina Children's Hospital,University
+      Medical Centre,Utrecht,The Netherlands.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20151111
+PL  - England
+TA  - Cardiol Young
+JT  - Cardiology in the young
+JID - 9200019
+SB  - IM
+MH  - Cardiomyopathy, Hypertrophic/*etiology
+MH  - Donohue Syndrome/*complications
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+OTO - NOTNLM
+OT  - Donohue syndrome
+OT  - hypertrophic cardiomyopathy
+OT  - leprechaunism
+EDAT- 2015/11/12 06:00
+MHDA- 2017/01/11 06:00
+CRDT- 2015/11/12 06:00
+PHST- 2015/11/12 06:00 [entrez]
+PHST- 2015/11/12 06:00 [pubmed]
+PHST- 2017/01/11 06:00 [medline]
+AID - S1047951115002437 [pii]
+AID - 10.1017/S1047951115002437 [doi]
+PST - ppublish
+SO  - Cardiol Young. 2016 Apr;26(4):815-8. doi: 10.1017/S1047951115002437. Epub 2015
+      Nov 11.
+
+PMID- 26508115
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160701
+LR  - 20171027
+IS  - 1757-790X (Electronic)
+IS  - 1757-790X (Linking)
+VI  - 2015
+DP  - 2015 Oct 27
+TI  - Donohue syndrome and use of continuous subcutaneous insulin pump therapy.
+LID - 10.1136/bcr-2015-210019 [doi]
+LID - bcr2015210019 [pii]
+AB  - Donohue syndrome is a rare autosomal recessive condition caused by severe
+      loss-of-function mutations in the insulin receptor (INSR) gene. The diagnosis is 
+      made on clinical, biochemical and genetic grounds. Mutations are found on
+      chromosome 19p13.2, and code for mutations in the INSR gene. Treatment is
+      challenging and often unsuccessful, and relies on maintaining normoglycaemia and 
+      avoiding fasting; in some patients, recombinant human insulin-like growth factor 
+      (rhIGF-1) has been trialled. The prognosis is poor, with most babies dying in
+      infancy. Ethically, it is important to consider the benefit versus burden of
+      treatment, the quality of life of the surviving patient and the parents' wishes, 
+      when making decisions regarding withholding or withdrawing care.
+CI  - 2015 BMJ Publishing Group Ltd.
+FAU - Huggard, Dean
+AU  - Huggard D
+AD  - Department of Neonatology, University Hospital Limerick, Limerick, Ireland.
+FAU - Stack, Tom
+AU  - Stack T
+AD  - Department of Neonatology, University Hospital Limerick, Limerick, Ireland.
+FAU - Satas, Saulius
+AU  - Satas S
+AD  - Department of Neonatology, University Hospital Limerick, Limerick, Ireland.
+FAU - Gorman, Clodagh O
+AU  - Gorman CO
+AD  - Department of Paediatrics, The Children's Ark, Limerick, Ireland Graduate Entry
+      Medical School, Centre for Interventions in Infection, Inflammation & Immunity
+      (4i), Limerick, Ireland.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20151027
+PL  - England
+TA  - BMJ Case Rep
+JT  - BMJ case reports
+JID - 101526291
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Clinical Decision-Making/ethics
+MH  - Donohue Syndrome/complications/*diagnosis/*drug therapy
+MH  - Humans
+MH  - Hyperglycemia/drug therapy/etiology
+MH  - Infant, Newborn
+MH  - *Insulin Infusion Systems
+MH  - Male
+MH  - Mutation
+MH  - Palliative Care
+MH  - Prognosis
+MH  - Quality of Life
+MH  - Receptor, Insulin/genetics
+PMC - PMC4636693
+EDAT- 2015/10/29 06:00
+MHDA- 2016/07/02 06:00
+CRDT- 2015/10/29 06:00
+PHST- 2015/10/29 06:00 [entrez]
+PHST- 2015/10/29 06:00 [pubmed]
+PHST- 2016/07/02 06:00 [medline]
+AID - bcr-2015-210019 [pii]
+AID - 10.1136/bcr-2015-210019 [doi]
+PST - epublish
+SO  - BMJ Case Rep. 2015 Oct 27;2015. pii: bcr-2015-210019. doi:
+      10.1136/bcr-2015-210019.
+
+PMID- 26438710
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160211
+LR  - 20151103
+IS  - 1098-4275 (Electronic)
+IS  - 0031-4005 (Linking)
+VI  - 136
+IP  - 5
+DP  - 2015 Nov
+TI  - Case Report: When an Induced Illness Looks Like a Rare Disease.
+PG  - e1361-5
+LID - 10.1542/peds.2014-4165 [doi]
+AB  - The recognition of fabricated illness (FI) in a child represents a diagnostic
+      challenge. The suspicion of FI often arises from the discrepancy between
+      laboratory tests and clinical history. For instance, (unnecessary) insulin
+      injections by caregivers has been widely described as a common cause of
+      factitious hypoglycemia that may be inferred from discrepancies between plasma
+      insulin and c-peptide. However, contemporary administration of insulin with an
+      insulin secretagogue (glyburide), and of additional drugs, can make the
+      diagnostic pathway problematic. We report the case of a child 4 years and 11
+      months old, admitted for alternance of hypo- and hyperglycemia associated with
+      hirsutism, hypokalemia, nephrocalcinosis, and neurodevelopmental delay. All these
+      features were compatible with Rabson-Mendenhall syndrome, a rare disorder of
+      severe insulin resistance linked to mutations of insulin receptor. At admission, 
+      plasma insulin levels were high during hypoglycemic episodes, but c-peptide was
+      repeatedly in the normal range. The genetic analysis of insulin receptor was
+      negative. The story of previous hospital admissions, inconsistency between
+      insulin and c-peptide values, and association between hypoglycemic episodes in
+      the child with the presence of the mother, raised the suspicion of FI. This
+      hypothesis was confirmed by a video recording that revealed the administration by
+      the mother of multiple drugs (insulin, glyburide, progesterone, and furosemide)
+      that mimicked most of the features of Rabson-Mendenhall syndrome, including
+      hirsutism and hypoglycemia with coincident, inappropriately normal c-peptide
+      values due to the administration of the insulin secretagogue. Our case indicates 
+      that inconsistency among consecutive diagnostic tests should be regarded as a
+      clue of FI.
+CI  - Copyright (c) 2015 by the American Academy of Pediatrics.
+FAU - Rabbone, Ivana
+AU  - Rabbone I
+AD  - Department of Pediatrics, University of Turin, Turin, Italy;
+      ivana.rabbone@unito.it.
+FAU - Galderisi, Alfonso
+AU  - Galderisi A
+AD  - Department of Women and Children's Health, University of Padua, Padua, Italy;
+FAU - Tinti, Davide
+AU  - Tinti D
+AD  - Department of Pediatrics, University of Turin, Turin, Italy;
+FAU - Ignaccolo, Maria Giovanna
+AU  - Ignaccolo MG
+AD  - Department of Pediatrics, University of Turin, Turin, Italy;
+FAU - Barbetti, Fabrizio
+AU  - Barbetti F
+AD  - Department of Experimental Medicine and Surgery, University of Tor Vergata, Rome,
+      Italy; and Bambino Gesu Children Hospital, IRCCS, Rome, Italy.
+FAU - Cerutti, Franco
+AU  - Cerutti F
+AD  - Department of Pediatrics, University of Turin, Turin, Italy;
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20151005
+PL  - United States
+TA  - Pediatrics
+JT  - Pediatrics
+JID - 0376422
+SB  - AIM
+SB  - IM
+MH  - Child, Preschool
+MH  - Diagnosis, Differential
+MH  - Donohue Syndrome/*diagnosis
+MH  - Humans
+MH  - Male
+MH  - Munchausen Syndrome by Proxy/*diagnosis
+EDAT- 2015/10/07 06:00
+MHDA- 2016/02/13 06:00
+CRDT- 2015/10/07 06:00
+PHST- 2015/07/22 00:00 [accepted]
+PHST- 2015/10/07 06:00 [entrez]
+PHST- 2015/10/07 06:00 [pubmed]
+PHST- 2016/02/13 06:00 [medline]
+AID - peds.2014-4165 [pii]
+AID - 10.1542/peds.2014-4165 [doi]
+PST - ppublish
+SO  - Pediatrics. 2015 Nov;136(5):e1361-5. doi: 10.1542/peds.2014-4165. Epub 2015 Oct
+      5.
+
+PMID- 26388649
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160331
+LR  - 20150921
+IS  - 0974-7559 (Electronic)
+IS  - 0019-6061 (Linking)
+VI  - 52
+IP  - 8
+DP  - 2015 Aug
+TI  - Leprechaunism (Donohue syndrome).
+PG  - 724
+FAU - Ghosh, Urmi
+AU  - Ghosh U
+AD  - Department of Pediatrics and Pediatric Endocrinology, Christian Medical College, 
+      Vellore, Tamil Nadu, India. uurmighosh@yahoo.co.in.
+FAU - Mathai, Sarah
+AU  - Mathai S
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - India
+TA  - Indian Pediatr
+JT  - Indian pediatrics
+JID - 2985062R
+SB  - IM
+MH  - *Donohue Syndrome
+MH  - Fatal Outcome
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+EDAT- 2015/09/22 06:00
+MHDA- 2016/04/01 06:00
+CRDT- 2015/09/22 06:00
+PHST- 2015/09/22 06:00 [entrez]
+PHST- 2015/09/22 06:00 [pubmed]
+PHST- 2016/04/01 06:00 [medline]
+PST - ppublish
+SO  - Indian Pediatr. 2015 Aug;52(8):724.
+
+PMID- 26160152
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160523
+LR  - 20150828
+IS  - 1663-2826 (Electronic)
+IS  - 1663-2818 (Linking)
+VI  - 84
+IP  - 2
+DP  - 2015
+TI  - Identification and Functional Characterization of Two Novel Nonsense Mutations in
+      the beta-Subunit of INSR That Cause Severe Insulin Resistance Syndrome.
+PG  - 73-8
+LID - 10.1159/000381624 [doi]
+AB  - BACKGROUND/AIMS: Donohue syndrome is an extremely rare autosomal recessive
+      disorder caused by mutations in INSR. This study describes the clinical course of
+      a patient with Donohue syndrome, and we also evaluated the molecular and
+      functional characteristics of 2 novel INSR mutations. METHODS: Our patient was a 
+      male newborn with acanthosis nigricans, lack of subcutaneous fat, hirsutism,
+      thick lips, and high serum insulin levels, all of which are characteristic of
+      Donohue syndrome. INSR mutation analysis was performed, and Western blot analysis
+      was used to verify the effects of the novel mutations on INSR protein expression.
+      RESULTS: Direct INSR sequencing identified the following 2 novel compound
+      heterozygous mutations in the beta-subunit of INSR: p.Arg1066* and p.Gln1232*.
+      Western blot analysis of skin fibroblasts revealed a comparable expression of the
+      alpha-subunit of INSR in mutant and control samples, but reduced levels of mature
+      INSR beta-subunit protein were found in mutant INSR-expressing cells in
+      comparison to the controls. CONCLUSIONS: This study describes the clinical course
+      of a male patient with Donohue syndrome and the molecular characteristics of 2
+      novel compound heterozygous mutations in INSR. These novel nonsense mutations are
+      associated with reduced expression of the mature INSR beta-subunit, which was
+      most likely due to impaired proreceptor processing.
+CI  - (c) 2015 S. Karger AG, Basel.
+FAU - Choi, Jin-Ho
+AU  - Choi JH
+AD  - Department of Pediatrics, Asan Medical Center Children's Hospital, University of 
+      Ulsan College of Medicine, Seoul, Korea.
+FAU - Kang, Minji
+AU  - Kang M
+FAU - Kim, Ja Hye
+AU  - Kim JH
+FAU - Cho, Jahyang
+AU  - Cho J
+FAU - Kim, Gu-Hwan
+AU  - Kim GH
+FAU - Yoo, Han-Wook
+AU  - Yoo HW
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150708
+PL  - Switzerland
+TA  - Horm Res Paediatr
+JT  - Hormone research in paediatrics
+JID - 101525157
+RN  - 0 (Antigens, CD)
+RN  - 0 (Codon, Nonsense)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Abnormalities, Multiple/genetics
+MH  - Antigens, CD/*genetics
+MH  - Base Sequence
+MH  - Cell Line
+MH  - Codon, Nonsense
+MH  - Donohue Syndrome/genetics
+MH  - Fatal Outcome
+MH  - Fibroblasts/chemistry
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Insulin Resistance/*genetics
+MH  - Male
+MH  - Molecular Sequence Data
+MH  - Receptor, Insulin/*genetics
+MH  - Syndrome
+EDAT- 2015/07/15 06:00
+MHDA- 2016/05/24 06:00
+CRDT- 2015/07/11 06:00
+PHST- 2015/02/09 00:00 [received]
+PHST- 2015/03/12 00:00 [accepted]
+PHST- 2015/07/11 06:00 [entrez]
+PHST- 2015/07/15 06:00 [pubmed]
+PHST- 2016/05/24 06:00 [medline]
+AID - 000381624 [pii]
+AID - 10.1159/000381624 [doi]
+PST - ppublish
+SO  - Horm Res Paediatr. 2015;84(2):73-8. doi: 10.1159/000381624. Epub 2015 Jul 8.
+
+PMID- 26070594
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20161230
+IS  - 1769-6682 (Electronic)
+IS  - 1297-9589 (Linking)
+VI  - 43
+IP  - 7-8
+DP  - 2015 Jul-Aug
+TI  - [Antenatal diagnosis of a recurrent case of leprechaunism].
+PG  - 556-9
+LID - 10.1016/j.gyobfe.2015.04.014 [doi]
+LID - S1297-9589(15)00152-6 [pii]
+FAU - Bouzid, A
+AU  - Bouzid A
+AD  - Service de gynecologie et obstetrique, hopital Habib Bougatfa, CHU de Bizerte,
+      rue du 13-Aout, 7000 Bizerte, Tunisie. Electronic address: arij2009@voila.fr.
+FAU - Ayachi, A
+AU  - Ayachi A
+AD  - Service de gynecologie et obstetrique, hopital Habib Bougatfa, CHU de Bizerte,
+      rue du 13-Aout, 7000 Bizerte, Tunisie.
+FAU - Khammessi, I
+AU  - Khammessi I
+AD  - Service de pediatrie et de neonatologie, hopital Habib Bougatfa, CHU de Bizerte, 
+      rue du 13-Aout, 7000 Bizerte, Tunisie.
+FAU - Chelli, I
+AU  - Chelli I
+AD  - Service de pediatrie et de neonatologie, hopital Habib Bougatfa, CHU de Bizerte, 
+      rue du 13-Aout, 7000 Bizerte, Tunisie.
+FAU - Mourali, M
+AU  - Mourali M
+AD  - Service de gynecologie et obstetrique, hopital Habib Bougatfa, CHU de Bizerte,
+      rue du 13-Aout, 7000 Bizerte, Tunisie.
+LA  - fre
+PT  - Case Reports
+PT  - Letter
+TT  - Approche echographique antenatale d'un cas recidivant de leprechaunisme.
+DEP - 20150610
+PL  - France
+TA  - Gynecol Obstet Fertil
+JT  - Gynecologie, obstetrique & fertilite
+JID - 100936305
+SB  - IM
+MH  - Abnormalities, Multiple/diagnosis
+MH  - Adult
+MH  - Clitoris/pathology
+MH  - Craniofacial Abnormalities/diagnosis
+MH  - Donohue Syndrome/*diagnosis
+MH  - Female
+MH  - Gestational Age
+MH  - Humans
+MH  - Hypertrophy
+MH  - Pregnancy
+MH  - Recurrence
+MH  - *Ultrasonography, Prenatal
+EDAT- 2015/06/14 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2015/06/14 06:00
+PHST- 2014/10/15 00:00 [received]
+PHST- 2015/04/17 00:00 [accepted]
+PHST- 2015/06/14 06:00 [entrez]
+PHST- 2015/06/14 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - S1297-9589(15)00152-6 [pii]
+AID - 10.1016/j.gyobfe.2015.04.014 [doi]
+PST - ppublish
+SO  - Gynecol Obstet Fertil. 2015 Jul-Aug;43(7-8):556-9. doi:
+      10.1016/j.gyobfe.2015.04.014. Epub 2015 Jun 10.
+
+PMID- 25741786
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160414
+LR  - 20150714
+IS  - 2191-0251 (Electronic)
+IS  - 0334-018X (Linking)
+VI  - 28
+IP  - 7-8
+DP  - 2015 Jul
+TI  - Donohue syndrome: a new case with a new complication.
+PG  - 951-4
+LID - 10.1515/jpem-2014-0405 [doi]
+LID - /j/jpem.2015.28.issue-7-8/jpem-2014-0405/jpem-2014-0405.xml [pii]
+AB  - Donohue syndrome (DS) is a very rare autosomal recessive disease affecting less
+      than one in a million live births. It represents the most severe form of insulin 
+      resistance due to mutations involving the insulin receptor gene. DS is
+      characterized by pre- and postnatal growth retardation with failure to thrive,
+      lipoatrophy, muscle wasting, acanthosis nigricans, hypertrichosis, and dysmorphic
+      features. Glucose homeostasis is affected with hyperinsulinemia, fasting
+      hypoglycemia, and postprandial hyperglycemia. We report a Jordanian patient with 
+      genetically proven DS who had the classical physical features, progressive
+      hypertrophic cardiomyopathy, cholestasis, and hyperglycemia, followed by
+      hypoglycemia. In addition, the patient developed polyuria and uremia despite
+      normal creatinine levels, hypernatremia, and hypertension. To our knowledge,
+      these metabolic derangements were not previously reported in patients with DS.
+FAU - Odeh, Rasha
+AU  - Odeh R
+FAU - Alassaf, Abeer
+AU  - Alassaf A
+FAU - Al-Qudah, Abdelkarim A
+AU  - Al-Qudah AA
+LA  - eng
+GR  - Wellcome Trust/United Kingdom
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - J Pediatr Endocrinol Metab
+JT  - Journal of pediatric endocrinology & metabolism : JPEM
+JID - 9508900
+SB  - IM
+MH  - Cardiomyopathy, Hypertrophic/*complications/diagnosis
+MH  - Donohue Syndrome/*complications/diagnosis
+MH  - Female
+MH  - Humans
+MH  - Hyperglycemia/*complications/diagnosis
+MH  - Hyperinsulinism/*complications/diagnosis
+MH  - Hypoglycemia/*complications/diagnosis
+MH  - Infant, Newborn
+MH  - Insulin Resistance
+MH  - Polyuria/*complications/diagnosis
+MH  - Prognosis
+MH  - Uremia/*complications/diagnosis
+EDAT- 2015/03/06 06:00
+MHDA- 2016/04/15 06:00
+CRDT- 2015/03/06 06:00
+PHST- 2014/10/08 00:00 [received]
+PHST- 2015/02/04 00:00 [accepted]
+PHST- 2015/03/06 06:00 [entrez]
+PHST- 2015/03/06 06:00 [pubmed]
+PHST- 2016/04/15 06:00 [medline]
+AID - 10.1515/jpem-2014-0405 [doi]
+AID - /j/jpem.ahead-of-print/jpem-2014-0405/jpem-2014-0405.xml [pii]
+PST - ppublish
+SO  - J Pediatr Endocrinol Metab. 2015 Jul;28(7-8):951-4. doi: 10.1515/jpem-2014-0405.
+
+PMID- 25465274
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160629
+LR  - 20170830
+IS  - 1878-1780 (Electronic)
+IS  - 1262-3636 (Linking)
+VI  - 41
+IP  - 4
+DP  - 2015 Sep
+TI  - Ten-year improvement of insulin resistance and growth with recombinant human
+      insulin-like growth factor 1 in a patient with insulin receptor mutations
+      resulting in leprechaunism.
+PG  - 331-7
+LID - 10.1016/j.diabet.2014.11.001 [doi]
+LID - S1262-3636(14)00170-0 [pii]
+AB  - AIM: Leprechaunism, a rare genetic disease resulting from mutations in two
+      alleles of the insulin receptor gene, is characterized by severe insulin
+      resistance, retarded growth and, usually, premature death. The ability of
+      treatment with recombinant human insulin-like growth factor 1 (rhIGF1) to improve
+      metabolic and clinical parameters in the long-term is still controversial.
+      METHODS: Mutations were looked for in the insulin receptor gene of a
+      four-month-old female baby with leprechaunism. The patient's skin fibroblasts
+      were analyzed for response to insulin and IGF1. At the clinical level, the very
+      long-term effects of treatment with rhIGF1/rhIGFBP3 were evaluated by clinical
+      and metabolic parameters. RESULTS: The patient's diagnosis was based on compound 
+      heterozygous mutations in two alleles of the insulin receptor gene, thus
+      confirming leprechaunism. Cultured fibroblasts showed a decreased number of
+      insulin receptors and were insulin-resistant. However, IGF1 was able to stimulate
+      IGF1 receptor signalling, suggesting possible activation of a salvage pathway.
+      Treatment with IGF1/IGFBP3 for 8.7 years, then IGF1 for 2 years, resulted in
+      normalization of circulating levels of IGF1 and IGFBP3. Large daily variations in
+      glycaemia and insulinaemia persisted, but mean glycaemia decreased. Regarding
+      growth, the patient's BMI Z score normalized and length/height score improved.
+      Our patient presented normal neurological development and academic achievement.
+      The treatment was free of adverse effects. CONCLUSION: Our results provide
+      evidence that rhIGF1 with and without rhIGFBP3 can prevent fatal outcomes, and
+      improve growth and metabolic parameters, for more than 10 years in a patient with
+      leprechaunism. Long-term rhIGF1 for severe insulin resistance syndrome should be 
+      considered.
+CI  - Copyright (c) 2014 Elsevier Masson SAS. All rights reserved.
+FAU - de Kerdanet, M
+AU  - de Kerdanet M
+AD  - Pediatric Endocrinology Unit, University Hospital, Rennes, France. Electronic
+      address: marc.de.kerdanet@chu-rennes.fr.
+FAU - Caron-Debarle, M
+AU  - Caron-Debarle M
+AD  - INSERM, UMR-S 938, CDR Saint-Antoine, 75012 Paris, France; Sorbonne University
+      UPMC Universite Paris 06, UMR-S 938, 75012 Paris, France; Institute of
+      Cardiometabolism and Nutrition (ICAN), AP-HP, GH HUEP, 75012 Paris, France.
+FAU - Nivot, S
+AU  - Nivot S
+AD  - Pediatric Endocrinology Unit, University Hospital, Rennes, France.
+FAU - Gaillot, T
+AU  - Gaillot T
+AD  - Pediatric Endocrinology Unit, University Hospital, Rennes, France.
+FAU - Lascols, O
+AU  - Lascols O
+AD  - INSERM, UMR-S 938, CDR Saint-Antoine, 75012 Paris, France; Sorbonne University
+      UPMC Universite Paris 06, UMR-S 938, 75012 Paris, France; Institute of
+      Cardiometabolism and Nutrition (ICAN), AP-HP, GH HUEP, 75012 Paris, France.
+FAU - Fremont, B
+AU  - Fremont B
+AD  - Pediatric surgery service, University Hospital, Rennes, France.
+FAU - Bonnaure-Mallet, M
+AU  - Bonnaure-Mallet M
+AD  - Pediatric Endocrinology Unit, University Hospital, Rennes, France.
+FAU - Gie, S
+AU  - Gie S
+AD  - Pediatric Endocrinology Unit, University Hospital, Rennes, France.
+FAU - Massart, C
+AU  - Massart C
+AD  - Laboratory of Molecular Genetic and Hormonology, University Hospital, Rennes,
+      France.
+FAU - Capeau, J
+AU  - Capeau J
+AD  - INSERM, UMR-S 938, CDR Saint-Antoine, 75012 Paris, France; Sorbonne University
+      UPMC Universite Paris 06, UMR-S 938, 75012 Paris, France; Institute of
+      Cardiometabolism and Nutrition (ICAN), AP-HP, GH HUEP, 75012 Paris, France.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141125
+PL  - France
+TA  - Diabetes Metab
+JT  - Diabetes & metabolism
+JID - 9607599
+RN  - 0 (Antigens, CD)
+RN  - 0 (Recombinant Proteins)
+RN  - 67763-96-6 (Insulin-Like Growth Factor I)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+EIN - Diabetes Metab. 2016 Dec;42(6):e1. Bonaure, M [corrected to Bonnaure-Mallet , M].
+      PMID: 27865655
+MH  - Antigens, CD/*genetics
+MH  - Child
+MH  - *Child Development/drug effects
+MH  - Child, Preschool
+MH  - Donohue Syndrome/*drug therapy/genetics/metabolism/physiopathology
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hormone Replacement Therapy
+MH  - Humans
+MH  - Infant
+MH  - Insulin Resistance/*genetics
+MH  - Insulin-Like Growth Factor I/metabolism/*therapeutic use
+MH  - *Mutation
+MH  - Receptor, Insulin/*genetics
+MH  - Recombinant Proteins/therapeutic use
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - *Insulin resistance
+OT  - *Leprechaunism
+OT  - *rhIGF1
+OT  - *rhIGFBP3
+EDAT- 2014/12/04 06:00
+MHDA- 2016/06/30 06:00
+CRDT- 2014/12/04 06:00
+PHST- 2014/08/28 00:00 [received]
+PHST- 2014/10/27 00:00 [revised]
+PHST- 2014/11/02 00:00 [accepted]
+PHST- 2014/12/04 06:00 [entrez]
+PHST- 2014/12/04 06:00 [pubmed]
+PHST- 2016/06/30 06:00 [medline]
+AID - S1262-3636(14)00170-0 [pii]
+AID - 10.1016/j.diabet.2014.11.001 [doi]
+PST - ppublish
+SO  - Diabetes Metab. 2015 Sep;41(4):331-7. doi: 10.1016/j.diabet.2014.11.001. Epub
+      2014 Nov 25.
+
+PMID- 25153212
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150129
+LR  - 20180429
+IS  - 2191-0251 (Electronic)
+IS  - 0334-018X (Linking)
+VI  - 27
+IP  - 11-12
+DP  - 2014 Nov
+TI  - Continuous subcutaneous IGF-1 therapy via insulin pump in a patient with Donohue 
+      syndrome.
+PG  - 1237-41
+LID - 10.1515/jpem-2013-0402 [doi]
+LID - /j/jpem.2014.27.issue-11-12/jpem-2013-0402/jpem-2013-0402.xml [pii]
+AB  - Donohue syndrome (DS) is a severe form of congenital insulin resistance due to
+      mutation(s) in the insulin receptor (INSR) gene. Given the similarities between
+      insulin and insulin-like growth factor 1 (IGF-1) receptors, recombinant human
+      IGF-1 (rhIGF-1) has been used to treat severe insulin resistance due to INSR
+      mutation(s). Traditional subcutaneous therapy may be limited by the shortened
+      IGF-1 half-life in these patients. We report the case of a female with
+      molecularly confirmed DS treated with continuous rhIGF-1 therapy via an insulin
+      pump. With treatment, the patient's hemoglobin A1c decreased from 9.8% to 8.8%,
+      and her weight increased by 0.8 kg. Development of an ovarian tumor complicated
+      her course, but it was unclear whether this was related to rhIGF-1 therapy.
+      Limited treatment options exist for patients with DS. The use of continuous
+      rhIGF-1 via an insulin pump may be a viable option, although further experience
+      is needed to establish safety and efficacy.
+FAU - Weber, David R
+AU  - Weber DR
+FAU - Stanescu, Diana E
+AU  - Stanescu DE
+FAU - Semple, Robert
+AU  - Semple R
+FAU - Holland, Cheryl
+AU  - Holland C
+FAU - Magge, Sheela N
+AU  - Magge SN
+LA  - eng
+GR  - 098498/Wellcome Trust/United Kingdom
+GR  - K12 DK094723/DK/NIDDK NIH HHS/United States
+GR  - K12 HD000850/HD/NICHD NIH HHS/United States
+GR  - T32 DK063688/DK/NIDDK NIH HHS/United States
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - Germany
+TA  - J Pediatr Endocrinol Metab
+JT  - Journal of pediatric endocrinology & metabolism : JPEM
+JID - 9508900
+RN  - 0 (Antigens, CD)
+RN  - 0 (Recombinant Proteins)
+RN  - 67763-96-6 (Insulin-Like Growth Factor I)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Antigens, CD/genetics
+MH  - Donohue Syndrome/*drug therapy/genetics
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - *Infusion Pumps
+MH  - Injections, Subcutaneous
+MH  - Insulin-Like Growth Factor I/*administration & dosage/pharmacology
+MH  - Mutation/genetics
+MH  - Prognosis
+MH  - Receptor, Insulin/genetics
+MH  - Recombinant Proteins/*administration & dosage/pharmacology
+PMC - PMC4535795
+MID - NIHMS713222
+EDAT- 2014/08/26 06:00
+MHDA- 2015/01/30 06:00
+CRDT- 2014/08/26 06:00
+PHST- 2013/10/11 00:00 [received]
+PHST- 2014/06/21 00:00 [accepted]
+PHST- 2014/08/26 06:00 [entrez]
+PHST- 2014/08/26 06:00 [pubmed]
+PHST- 2015/01/30 06:00 [medline]
+AID - 10.1515/jpem-2013-0402 [doi]
+AID - /j/jpem.ahead-of-print/jpem-2013-0402/jpem-2013-0402.xml [pii]
+PST - ppublish
+SO  - J Pediatr Endocrinol Metab. 2014 Nov;27(11-12):1237-41. doi:
+      10.1515/jpem-2013-0402.
+
+PMID- 24913309
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150521
+LR  - 20140927
+IS  - 1432-5233 (Electronic)
+IS  - 0940-5429 (Linking)
+VI  - 51
+IP  - 5
+DP  - 2014 Oct
+TI  - Bartter-like syndrome in patients with molecular defects of the insulin receptor 
+      gene.
+PG  - 891-2
+LID - 10.1007/s00592-014-0606-y [doi]
+FAU - Watanabe, Toru
+AU  - Watanabe T
+AD  - Department of Pediatrics, Niigata City General Hospital, 463-7 Shumoku, Chuo-ku, 
+      Niigata City, 950-1197, Japan, twata@hosp.niigata.niigata.jp.
+FAU - Abe, Yuki
+AU  - Abe Y
+LA  - eng
+PT  - Comment
+PT  - Letter
+DEP - 20140610
+PL  - Germany
+TA  - Acta Diabetol
+JT  - Acta diabetologica
+JID - 9200299
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+CON - Acta Diabetol. 2013 Dec;50(6):951-7. PMID: 23824322
+MH  - Bartter Syndrome/*genetics
+MH  - Donohue Syndrome/*genetics
+MH  - Female
+MH  - Humans
+MH  - Insulin Resistance/*genetics
+MH  - Male
+MH  - *Mutation
+MH  - Receptor, Insulin/*genetics
+EDAT- 2014/06/11 06:00
+MHDA- 2015/05/23 06:00
+CRDT- 2014/06/11 06:00
+PHST- 2014/04/21 00:00 [received]
+PHST- 2014/05/23 00:00 [accepted]
+PHST- 2014/06/11 06:00 [entrez]
+PHST- 2014/06/11 06:00 [pubmed]
+PHST- 2015/05/23 06:00 [medline]
+AID - 10.1007/s00592-014-0606-y [doi]
+PST - ppublish
+SO  - Acta Diabetol. 2014 Oct;51(5):891-2. doi: 10.1007/s00592-014-0606-y. Epub 2014
+      Jun 10.
+
+PMID- 24660547
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140502
+LR  - 20140325
+IS  - 1433-6510 (Print)
+IS  - 1433-6510 (Linking)
+VI  - 60
+IP  - 2
+DP  - 2014
+TI  - A syndrome of insulin resistance resembling Donohue syndrome with patent ductus
+      arteriosus.
+PG  - 315-7
+AB  - Donohue syndrome, a rare autosomal recessive disorder, is associated with the
+      mutation of the insulin receptor gene in the short arm of the 19th chromosome. It
+      is very rare that a syndrome of insulin resistance resembles Donohue syndrome
+      with patent ductus arteriosus. A 14-year-old girl, whose parents were
+      consanguineous, was often admitted for abdominal pain over the past 8 years. She 
+      presented not only polydipsia, polyphagia, and weight loss but also small elfin
+      face, distended abdomen, enlarged clitoris, hypertrichosis, acanthosis nigricans 
+      of the neck, decreased subcutaneous fat and 3/6 continuous murmur radiating to
+      the right shoulder with thrill on 2nd to 3rd left sternal border. In addition,
+      she had hyperglycemia, hyperinsulinism, and patent ductus arteriosus by
+      laboratory examination and echocardiography, respectively. This child shows
+      insulin resistance resembling Donohue syndrome with patent ductus arteriosus.
+      Most of patients with Donohue syndrome die prematurely. The child surviving for a
+      long time may have a milder form of Donohue syndrome and may be due to a less
+      severe form of the defective gene. Chromosomal abnormalities may be also
+      associated with this disease.
+FAU - Li, Weiping
+AU  - Li W
+FAU - Mai, Ruizhi
+AU  - Mai R
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Clin Lab
+JT  - Clinical laboratory
+JID - 9705611
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Donohue Syndrome/*complications
+MH  - Ductus Arteriosus, Patent/*complications
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - *Insulin Resistance
+EDAT- 2014/03/26 06:00
+MHDA- 2014/05/03 06:00
+CRDT- 2014/03/26 06:00
+PHST- 2014/03/26 06:00 [entrez]
+PHST- 2014/03/26 06:00 [pubmed]
+PHST- 2014/05/03 06:00 [medline]
+PST - ppublish
+SO  - Clin Lab. 2014;60(2):315-7.
+
+PMID- 24468607
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141223
+LR  - 20140513
+IS  - 2191-0251 (Electronic)
+IS  - 0334-018X (Linking)
+VI  - 27
+IP  - 5-6
+DP  - 2014 May
+TI  - Identification of a novel insulin receptor gene heterozygous mutation in a
+      patient with type A insulin resistance syndrome.
+PG  - 561-4
+LID - 10.1515/jpem-2013-0284 [doi]
+LID - /j/jpem.2014.27.issue-5-6/jpem-2013-0284/jpem-2013-0284.xml [pii]
+AB  - BACKGROUND: Several types of mutations in the insulin receptor gene have been
+      identified in patients with genetic syndromes of insulin resistance. PATIENT
+      REPORT: We describe a 12-year-old girl with type A insulin resistance with
+      hyperandrogenism, hyperinsulinemia, and diabetes mellitus but without the
+      dysmorphic characteristic of leprechaunism or Rabson-Mendenhall syndrome. The
+      proband's mother had hyperinsulinemia and diabetes mellitus but did not show any 
+      common clinical features of type A insulin resistance. The proband's brother also
+      had hyperinsulinemia but manifested neither glucose intolerance nor common
+      clinical features of type A insulin resistance. A novel heterozygous mutation,
+      p.Asn1164Thr, of the insulin receptor gene (INSR) was identified in this family. 
+      CONCLUSION: These cases illustrate the diversity of clinical phenotypes
+      associated with mutations of the insulin receptor gene.
+FAU - Dominguez-Garcia, Angela
+AU  - Dominguez-Garcia A
+FAU - Martinez, Rosa
+AU  - Martinez R
+FAU - Urrutia, Ines
+AU  - Urrutia I
+FAU - Garin, Intza
+AU  - Garin I
+FAU - Castano, Luis
+AU  - Castano L
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - J Pediatr Endocrinol Metab
+JT  - Journal of pediatric endocrinology & metabolism : JPEM
+JID - 9508900
+RN  - 0 (Hormones)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Adolescent
+MH  - Diabetes Mellitus, Type 1/complications
+MH  - Donohue Syndrome/complications
+MH  - Female
+MH  - Glucose Tolerance Test
+MH  - Heterozygote
+MH  - Hormones/blood
+MH  - Humans
+MH  - Insulin Resistance/*genetics
+MH  - Mutation, Missense/genetics
+MH  - Receptor, Insulin/*genetics
+EDAT- 2014/01/29 06:00
+MHDA- 2014/12/24 06:00
+CRDT- 2014/01/29 06:00
+PHST- 2013/07/03 00:00 [received]
+PHST- 2013/12/02 00:00 [accepted]
+PHST- 2014/01/29 06:00 [entrez]
+PHST- 2014/01/29 06:00 [pubmed]
+PHST- 2014/12/24 06:00 [medline]
+AID - 10.1515/jpem-2013-0284 [doi]
+AID - /j/jpem-ahead-of-print/jpem-2013-0284/jpem-2013-0284.xml [pii]
+PST - ppublish
+SO  - J Pediatr Endocrinol Metab. 2014 May;27(5-6):561-4. doi: 10.1515/jpem-2013-0284.
+
+PMID- 24388461
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141010
+LR  - 20171116
+IS  - 1769-664X (Electronic)
+IS  - 0929-693X (Linking)
+VI  - 21
+IP  - 2
+DP  - 2014 Feb
+TI  - [Donohue syndrome or leprechaunism].
+PG  - 206-10
+LID - 10.1016/j.arcped.2013.11.016 [doi]
+LID - S0929-693X(13)00599-X [pii]
+AB  - Donohue syndrome or leprechaunism is a severe congenital insulin-resistance
+      syndrome. It is characterized by intra-uterine and neonatal growth retardation,
+      typical dysmorphic features, and metabolic abnormalities with hyperinsulinism and
+      hyperandrogenism. Problems in energy metabolism and loss of glucose homeostasis
+      are responsible for early death in the first year of life. We describe a case
+      with a novel homozygote mutation in the insulin receptor gene. This patient had
+      hypertrophic cardiomyopathy with heart failure and bronchial compression leading 
+      to clinical deterioration over 5 days and subsequently death. A treatment with
+      recombinant IGF-1 was tried without efficacy.
+CI  - Copyright (c) 2013 Elsevier Masson SAS. All rights reserved.
+FAU - Planchenault, D
+AU  - Planchenault D
+AD  - Service de reanimation neonatale et pediatrique, CHRU de Tours, hopital
+      Clocheville, 49, boulevard Beranger, 37044 Tours cedex 9, France. Electronic
+      address: deborah.planchenault-2@etu.univ-tours.fr.
+FAU - Martin-Coignard, D
+AU  - Martin-Coignard D
+AD  - Service de genetique medicale et cytogenetique, centre hospitalier du Mans, 194, 
+      avenue Rubillard, 72037 Le Mans cedex 9, France.
+FAU - Rugemintwaza, D
+AU  - Rugemintwaza D
+AD  - Service de reanimation neonatale et pediatrique, centre hospitalier du Mans, 194,
+      avenue Rubillard, 72037 Le Mans cedex 9, France.
+FAU - Bah, A-G
+AU  - Bah AG
+AD  - Service de reanimation neonatale et pediatrique, centre hospitalier du Mans, 194,
+      avenue Rubillard, 72037 Le Mans cedex 9, France.
+FAU - Cosson, L
+AU  - Cosson L
+AD  - Unite de specialites pediatriques, CHRU de Tours, hopital Clocheville, 49,
+      boulevard Beranger, 37044 Tours cedex 9, France.
+FAU - Labarthe, F
+AU  - Labarthe F
+AD  - Unite de specialites pediatriques, CHRU de Tours, hopital Clocheville, 49,
+      boulevard Beranger, 37044 Tours cedex 9, France.
+FAU - Chantepie, A
+AU  - Chantepie A
+AD  - Unite de specialites pediatriques, CHRU de Tours, hopital Clocheville, 49,
+      boulevard Beranger, 37044 Tours cedex 9, France.
+FAU - Saliba, E
+AU  - Saliba E
+AD  - Service de reanimation neonatale et pediatrique, CHRU de Tours, hopital
+      Clocheville, 49, boulevard Beranger, 37044 Tours cedex 9, France.
+LA  - fre
+PT  - Case Reports
+PT  - Journal Article
+TT  - Le syndrome de Donohue ou leprechaunisme : a propos d'un cas.
+DEP - 20140101
+PL  - France
+TA  - Arch Pediatr
+JT  - Archives de pediatrie : organe officiel de la Societe francaise de pediatrie
+JID - 9421356
+RN  - 0 (Antigens, CD)
+RN  - 0 (Blood Glucose)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Antigens, CD/*genetics
+MH  - Blood Glucose/metabolism
+MH  - Cardiomyopathy, Hypertrophic/diagnosis/*genetics/pathology
+MH  - Chromosomes, Human, Pair 19/genetics
+MH  - Consanguinity
+MH  - *DNA Mutational Analysis
+MH  - Donohue Syndrome/*diagnosis/*genetics/pathology
+MH  - Echocardiography
+MH  - Exons/genetics
+MH  - Fatal Outcome
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Genetic Carrier Screening
+MH  - Heart Failure/diagnosis/*genetics/pathology
+MH  - *Homozygote
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Introns/genetics
+MH  - Receptor, Insulin/*genetics
+MH  - Shock, Cardiogenic/pathology
+EDAT- 2014/01/07 06:00
+MHDA- 2014/10/11 06:00
+CRDT- 2014/01/07 06:00
+PHST- 2013/03/06 00:00 [received]
+PHST- 2013/10/21 00:00 [revised]
+PHST- 2013/11/22 00:00 [accepted]
+PHST- 2014/01/07 06:00 [entrez]
+PHST- 2014/01/07 06:00 [pubmed]
+PHST- 2014/10/11 06:00 [medline]
+AID - S0929-693X(13)00599-X [pii]
+AID - 10.1016/j.arcped.2013.11.016 [doi]
+PST - ppublish
+SO  - Arch Pediatr. 2014 Feb;21(2):206-10. doi: 10.1016/j.arcped.2013.11.016. Epub 2014
+      Jan 1.
+
+PMID- 24267141
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140310
+LR  - 20160607
+IS  - 0578-1310 (Print)
+IS  - 0578-1310 (Linking)
+VI  - 51
+IP  - 7
+DP  - 2013 Jul
+TI  - [A case of Rabson-Mendenhall syndrome].
+PG  - 545-7
+FAU - Ma, Li
+AU  - Ma L
+FAU - Wang, Jian
+AU  - Wang J
+FAU - Fang, Yuan-xun
+AU  - Fang YX
+LA  - chi
+PT  - Case Reports
+PT  - Journal Article
+PL  - China
+TA  - Zhonghua Er Ke Za Zhi
+JT  - Zhonghua er ke za zhi = Chinese journal of pediatrics
+JID - 0417427
+RN  - 0 (Antigens, CD)
+RN  - 0 (Biomarkers)
+RN  - EC 2.7.10.1 (INSR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Acanthosis Nigricans/diagnosis/genetics/pathology
+MH  - Adolescent
+MH  - Antigens, CD/*genetics
+MH  - Biomarkers/blood
+MH  - DNA Mutational Analysis
+MH  - Donohue Syndrome/diagnosis/*genetics/pathology
+MH  - Humans
+MH  - Insulin Resistance/genetics
+MH  - Male
+MH  - Mutation/*genetics
+MH  - Polymerase Chain Reaction
+MH  - Receptor, Insulin/*genetics
+MH  - Sequence Analysis, DNA
+EDAT- 2013/11/26 06:00
+MHDA- 2014/03/13 06:00
+CRDT- 2013/11/26 06:00
+PHST- 2013/11/26 06:00 [entrez]
+PHST- 2013/11/26 06:00 [pubmed]
+PHST- 2014/03/13 06:00 [medline]
+PST - ppublish
+SO  - Zhonghua Er Ke Za Zhi. 2013 Jul;51(7):545-7.
+
+PMID- 24127532
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141114
+LR  - 20140304
+IS  - 2191-0251 (Electronic)
+IS  - 0334-018X (Linking)
+VI  - 27
+IP  - 3-4
+DP  - 2014 Mar
+TI  - Leprechaunism (Donohue syndrome): report of a case in a newborn.
+PG  - 207-8
+LID - 10.1515/jpem-2013-0341 [doi]
+LID - /j/jpem.2014.27.issue-3-4/jpem-2013-0341/jpem-2013-0341.xml [pii]
+FAU - Koklu, Esad
+AU  - Koklu E
+FAU - Ariguloglu, Erdal Avni
+AU  - Ariguloglu EA
+FAU - Koklu, Selmin
+AU  - Koklu S
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Germany
+TA  - J Pediatr Endocrinol Metab
+JT  - Journal of pediatric endocrinology & metabolism : JPEM
+JID - 9508900
+SB  - IM
+MH  - Donohue Syndrome/*diagnosis/physiopathology
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+EDAT- 2013/10/16 06:00
+MHDA- 2014/11/15 06:00
+CRDT- 2013/10/16 06:00
+PHST- 2013/08/07 00:00 [received]
+PHST- 2013/08/26 00:00 [accepted]
+PHST- 2013/10/16 06:00 [entrez]
+PHST- 2013/10/16 06:00 [pubmed]
+PHST- 2014/11/15 06:00 [medline]
+AID - 10.1515/jpem-2013-0341 [doi]
+AID - /j/jpem.ahead-of-print/jpem-2013-0341/jpem-2013-0341.xml [pii]
+PST - ppublish
+SO  - J Pediatr Endocrinol Metab. 2014 Mar;27(3-4):207-8. doi: 10.1515/jpem-2013-0341.
+
+PMID- 23982247
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141006
+LR  - 20171006
+IS  - 1432-1076 (Electronic)
+IS  - 0340-6199 (Linking)
+VI  - 173
+IP  - 2
+DP  - 2014 Feb
+TI  - Renal tubular dysfunction in patients with molecular defects of the insulin
+      receptor gene.
+PG  - 263
+LID - 10.1007/s00431-013-2154-9 [doi]
+FAU - Abe, Yuki
+AU  - Abe Y
+AD  - Department of Pediatrics, Niigata City General Hospital, 463-7 Shumoku, Chuo-ku, 
+      Niigata, 950-1197, Japan, y-abe@hosp.niigata.niigata.jp.
+FAU - Watanabe, Toru
+AU  - Watanabe T
+LA  - eng
+PT  - Comment
+PT  - Letter
+DEP - 20130828
+PL  - Germany
+TA  - Eur J Pediatr
+JT  - European journal of pediatrics
+JID - 7603873
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 67763-96-6 (Insulin-Like Growth Factor I)
+RN  - 9Y8NXQ24VQ (Propranolol)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+CON - Eur J Pediatr. 2013 Aug;172(8):1125-9. PMID: 23229189
+MH  - Cardiomyopathy, Hypertrophic/*genetics
+MH  - Donohue Syndrome/*genetics
+MH  - Humans
+MH  - Insulin Resistance/*genetics
+MH  - Insulin-Like Growth Factor I/*therapeutic use
+MH  - Intercellular Signaling Peptides and Proteins/*therapeutic use
+MH  - Propranolol/*therapeutic use
+MH  - Receptor, Insulin/*genetics
+EDAT- 2013/08/29 06:00
+MHDA- 2014/10/07 06:00
+CRDT- 2013/08/29 06:00
+PHST- 2013/08/15 00:00 [received]
+PHST- 2013/08/19 00:00 [accepted]
+PHST- 2013/08/29 06:00 [entrez]
+PHST- 2013/08/29 06:00 [pubmed]
+PHST- 2014/10/07 06:00 [medline]
+AID - 10.1007/s00431-013-2154-9 [doi]
+PST - ppublish
+SO  - Eur J Pediatr. 2014 Feb;173(2):263. doi: 10.1007/s00431-013-2154-9. Epub 2013 Aug
+      28.
+
+PMID- 23969187
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140102
+LR  - 20171116
+IS  - 1945-7197 (Electronic)
+IS  - 0021-972X (Linking)
+VI  - 98
+IP  - 11
+DP  - 2013 Nov
+TI  - Metreleptin improves blood glucose in patients with insulin receptor mutations.
+PG  - E1749-56
+LID - 10.1210/jc.2013-2317 [doi]
+AB  - CONTEXT: Rabson-Mendenhall syndrome (RMS) is caused by mutations of the insulin
+      receptor and results in extreme insulin resistance and dysglycemia. Hyperglycemia
+      in RMS is very difficult to treat, and patients are at risk for early morbidity
+      and mortality from complications of diabetes. OBJECTIVE: Our objective was to
+      study 1-year effects of recombinant human methionyl leptin (metreleptin) in 5
+      patients with RMS and 10-year effects in 2 of these patients. DESIGN AND SETTING:
+      We conducted an open-label nonrandomized study at the National Institutes of
+      Health. PATIENTS: Patients were adolescents with RMS and poorly controlled
+      diabetes. INTERVENTION: Two patients were treated with escalating doses (0.02 up 
+      to 0.22 mg/kg/d) of metreleptin for 10 years, including 3 cycles of metreleptin
+      withdrawal and reinitiation. In all 5 patients, 1-year effects of metreleptin
+      (0.22 mg/kg/d) were studied. OUTCOME MEASURES: Hemoglobin A1c (HbA1c) and body
+      mass index (BMI) z-scores were evaluated every 6 months. RESULTS: HbA1c decreased
+      from 11.4% +/- 1.1% at baseline to 9.3% +/- 1.9% after 6 months and 9.7% +/- 1.6%
+      after 12 months of metreleptin (P = .007). In patients treated for 10 years,
+      HbA1c declined with each cycle of metreleptin and rose with each withdrawal. BMI 
+      z-scores declined from -1.4 +/- 1.8 at baseline, to -2.6 +/- 1.6 after 12 months 
+      of metreleptin (P = .0006). Changes in BMI z-score correlated with changes in
+      HbA1c (P < .0001). CONCLUSIONS: Metreleptin treatment for 12 months was
+      associated with a 1.7% reduction in HbA1c; part of this improvement was likely
+      mediated via decreased BMI. Metreleptin is a promising treatment option for RMS, 
+      but additional therapies are needed to achieve HbA1c targets.
+FAU - Brown, Rebecca J
+AU  - Brown RJ
+AD  - MD, MHSc, Building 10-CRC, Room 6-5942, 10 Center Drive, Bethesda, Maryland
+      20892. brownrebecca@mail.nih.gov.
+FAU - Cochran, Elaine
+AU  - Cochran E
+FAU - Gorden, Phillip
+AU  - Gorden P
+LA  - eng
+SI  - ClinicalTrials.gov/NCT00085982
+GR  - Intramural NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, N.I.H., Intramural
+DEP - 20130822
+PL  - United States
+TA  - J Clin Endocrinol Metab
+JT  - The Journal of clinical endocrinology and metabolism
+JID - 0375362
+RN  - 0 (Blood Glucose)
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 0 (Leptin)
+RN  - 0 (hemoglobin A1c protein, human)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+RN  - TL60C27RLH (metreleptin)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Blood Glucose/*drug effects/metabolism
+MH  - Child
+MH  - Donohue Syndrome/*drug therapy/genetics/metabolism
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Glycated Hemoglobin A/metabolism
+MH  - Humans
+MH  - Hyperglycemia/*drug therapy/genetics/metabolism
+MH  - Insulin Resistance/genetics
+MH  - Leptin/administration & dosage/*analogs & derivatives/blood
+MH  - Male
+MH  - Receptor, Insulin/genetics/metabolism
+MH  - Treatment Outcome
+PMC - PMC3816267
+EDAT- 2013/08/24 06:00
+MHDA- 2014/01/03 06:00
+CRDT- 2013/08/24 06:00
+PHST- 2013/08/24 06:00 [entrez]
+PHST- 2013/08/24 06:00 [pubmed]
+PHST- 2014/01/03 06:00 [medline]
+AID - jc.2013-2317 [pii]
+AID - 10.1210/jc.2013-2317 [doi]
+PST - ppublish
+SO  - J Clin Endocrinol Metab. 2013 Nov;98(11):E1749-56. doi: 10.1210/jc.2013-2317.
+      Epub 2013 Aug 22.
+
+PMID- 23824322
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140820
+LR  - 20141107
+IS  - 1432-5233 (Electronic)
+IS  - 0940-5429 (Linking)
+VI  - 50
+IP  - 6
+DP  - 2013 Dec
+TI  - Six cases with severe insulin resistance (SIR) associated with mutations of
+      insulin receptor: Is a Bartter-like syndrome a feature of congenital SIR?
+PG  - 951-7
+LID - 10.1007/s00592-013-0490-x [doi]
+AB  - Biallelic insulin receptor (INSR) gene mutations cause congenital syndromes of
+      severe insulin resistance (SIR) known as Donohue syndrome (DS) and
+      Rabson-Mendenhall syndrome (RMS). At presentation, DS and RMS are difficult to
+      differentiate since they share many clinical features; however, while patients
+      with DS usually die within 1 year of birth, individuals classified as RMS can
+      reach adult age. INSR mutations can be also found in pubertal females with
+      hyperinsulinism, hyperandrogenism, and acanthosis nigricans (type A SIR). We
+      studied the INSR gene in five subjects with congenital SIR and in a patient with 
+      type A SIR. Nine biallelic INSR gene mutations (eight novels, including an
+      in-frame deletion of INSR signal peptide) were identified in patients with
+      congenital SIR; a heterozygous, spontaneous INSR mutation was detected in the
+      patient with type A SIR. Two probands, presenting severe hirsutism at birth, died
+      at the age of 3 months and were classified as DS, while other 2, currently 2 and 
+      3 years old, were diagnosed with RMS (patients 3 and 4). The fifth patient with
+      congenital SIR died when 14 months old. Nephrocalcinosis, hyperaldosteronism,
+      hyperreninemia, and hypokalemia, in the absence of hypertension, were discovered 
+      in patients 3 and 5 when 24 and 4 months old, respectively. Patient 3, now 3
+      years/3 months old, still shows hyperreninemic hyperaldosteronism requiring
+      potassium supplementation. We conclude that renal abnormalities resembling
+      antenatal Bartter's syndrome type II, recently reported also by others, is a
+      common observation in patients with congenital SIR.
+FAU - Grasso, Valeria
+AU  - Grasso V
+AD  - Laboratory of Mendelian Diabetes, Bambino Gesu Childrens' Hospital, Rome, Italy.
+FAU - Colombo, Carlo
+AU  - Colombo C
+FAU - Favalli, Valeria
+AU  - Favalli V
+FAU - Galderisi, Alfonso
+AU  - Galderisi A
+FAU - Rabbone, Ivana
+AU  - Rabbone I
+FAU - Gombos, Sara
+AU  - Gombos S
+FAU - Bonora, Enzo
+AU  - Bonora E
+FAU - Massa, Ornella
+AU  - Massa O
+FAU - Meschi, Franco
+AU  - Meschi F
+FAU - Cerutti, Franco
+AU  - Cerutti F
+FAU - Iafusco, Dario
+AU  - Iafusco D
+FAU - Bonfanti, Riccardo
+AU  - Bonfanti R
+FAU - Monciotti, Carla
+AU  - Monciotti C
+FAU - Barbetti, Fabrizio
+AU  - Barbetti F
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20130704
+PL  - Germany
+TA  - Acta Diabetol
+JT  - Acta diabetologica
+JID - 9200299
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+CIN - Acta Diabetol. 2014 Oct;51(5):891-2. PMID: 24913309
+MH  - Acanthosis Nigricans/complications/diagnosis/genetics
+MH  - Adolescent
+MH  - Bartter Syndrome/diagnosis/*genetics
+MH  - Child, Preschool
+MH  - Donohue Syndrome/diagnosis/*genetics
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Insulin Resistance/*genetics
+MH  - Male
+MH  - *Mutation
+MH  - Nephrocalcinosis/complications/diagnosis/genetics
+MH  - Receptor, Insulin/*genetics
+MH  - Severity of Illness Index
+EDAT- 2013/07/05 06:00
+MHDA- 2014/08/21 06:00
+CRDT- 2013/07/05 06:00
+PHST- 2013/03/15 00:00 [received]
+PHST- 2013/06/08 00:00 [accepted]
+PHST- 2013/07/05 06:00 [entrez]
+PHST- 2013/07/05 06:00 [pubmed]
+PHST- 2014/08/21 06:00 [medline]
+AID - 10.1007/s00592-013-0490-x [doi]
+PST - ppublish
+SO  - Acta Diabetol. 2013 Dec;50(6):951-7. doi: 10.1007/s00592-013-0490-x. Epub 2013
+      Jul 4.
+
+PMID- 23367497
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131017
+LR  - 20150219
+IS  - 1308-5735 (Electronic)
+VI  - 5
+IP  - 1
+DP  - 2013
+TI  - Syndrome of extreme insulin resistance (Rabson-Mendenhall phenotype) with atrial 
+      septal defect: clinical presentation and treatment outcomes.
+PG  - 58-61
+LID - 10.4274/Jcrpe.857 [doi]
+AB  - Syndrome of extreme insulin resistance (SEIR) is a rare spectrum disorder with a 
+      primary defect in insulin receptor signalling, noted primarily in children, and
+      is often difficult to diagnose due to the clinical heterogeneity.SEIR was
+      diagnosed in an adolescent girl with facial dysmorphism,exuberant scalp and body 
+      hair, severe acanthosis, lipoatrophy, dental abnormalities, and short stature
+      (Rabson-Mendenhall phenotype). She had elevated fasting (422.95 pmol/L) and
+      post-glucose insulin levels(>2083 pmol/L). Total body fat was decreased (11%;
+      dual-energy X-ray absorptiometry). Basal growth hormone (GH) was increased (7.9
+      mug/L)with normal insuline-like growth factor 1 (37.6 nmol/L) suggestive of GH
+      resistance. She had fatty liver and polycystic ovaries. Echocardiography revealed
+      ostium secundum type atrial septal defect (ASD). Blood glucose normalized with
+      pioglitazone (30 mg/day). Delayed development, severe insulin resistance, mild
+      hyperglycemia, absence of ketosis, and remarkable response of hyperinsulinemia
+      and hyperglycemia to pioglitazone which persisted even after 1 year of diagnosis 
+      are some of the notable features of this patient. This is perhaps the first
+      report of occurrence of congenital heart disease (ASD) in a patient of SEIR
+      (Rabson-Mendenhall phenotype). This report highlights the clinical features of
+      SEIR and the role of insulin sensitizers like pioglitazone in the management of
+      such patients.
+FAU - Dutta, Deep
+AU  - Dutta D
+AD  - Department of Endocrinology and Metabolism, IPGMER and SSKM Hospital, Kolkata,
+      India. deepdutta2000@yahoo.com.
+FAU - Maisnam, Indira
+AU  - Maisnam I
+FAU - Ghosh, Sujoy
+AU  - Ghosh S
+FAU - Mukhopadhyay, Satinath
+AU  - Mukhopadhyay S
+FAU - Chowdhury, Subhankar
+AU  - Chowdhury S
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20130629
+PL  - Turkey
+TA  - J Clin Res Pediatr Endocrinol
+JT  - Journal of clinical research in pediatric endocrinology
+JID - 101519456
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Thiazolidinediones)
+RN  - X4OV71U42S (pioglitazone)
+SB  - IM
+MH  - Adolescent
+MH  - Donohue Syndrome/drug therapy/*genetics
+MH  - Female
+MH  - Heart Septal Defects, Atrial/genetics
+MH  - Humans
+MH  - Hypoglycemic Agents/therapeutic use
+MH  - Insulin Resistance/*genetics
+MH  - Thiazolidinediones/therapeutic use
+MH  - Treatment Outcome
+PMC - PMC3628395
+EDAT- 2013/02/01 06:00
+MHDA- 2013/10/18 06:00
+CRDT- 2013/02/01 06:00
+PHST- 2013/02/01 06:00 [entrez]
+PHST- 2013/02/01 06:00 [pubmed]
+PHST- 2013/10/18 06:00 [medline]
+AID - 10.4274/Jcrpe.857 [doi]
+PST - ppublish
+SO  - J Clin Res Pediatr Endocrinol. 2013;5(1):58-61. doi: 10.4274/Jcrpe.857. Epub 2013
+      Jun 29.
+
+PMID- 23347304
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130709
+LR  - 20180125
+IS  - 1365-4632 (Electronic)
+IS  - 0011-9059 (Linking)
+VI  - 52
+IP  - 2
+DP  - 2013 Feb
+TI  - Rabson-Mendenhall syndrome with recurrent cerebral infarcts caused by a novel
+      INSR mutation.
+PG  - 182-5
+LID - 10.1111/j.1365-4632.2012.05665.x [doi]
+AB  - Rabson-Mendenhall syndrome (RMS) is an autosomal recessive disorder characterized
+      by extreme insulin resistance and certain characteristic phenotypic features. The
+      primary defect lies in the insulin receptor and involves biallelic mutations that
+      lead to a loss of function through various postulated defects. We present a
+      9-year-old female patient with RMS complicated by multiple cerebral infarcts, in 
+      whom genetic analysis revealed a novel insulin receptor mutation.
+CI  - (c) 2013 The International Society of Dermatology.
+FAU - Mohanan, Saritha
+AU  - Mohanan S
+AD  - Department of Skin and Sexually Transmitted Diseases, Jawaharlal Institute of
+      Postgraduate Medical Education and Research, Puducherry, India.
+FAU - Chandrashekar, Laxmisha
+AU  - Chandrashekar L
+FAU - Semple, Robert K
+AU  - Semple RK
+FAU - Thappa, Devinder M
+AU  - Thappa DM
+FAU - Parameswaran, Narayanan
+AU  - Parameswaran N
+FAU - Negi, Vir S
+AU  - Negi VS
+FAU - Ramassamy, Sivaranjini
+AU  - Ramassamy S
+LA  - eng
+GR  - G0600717/Medical Research Council/United Kingdom
+GR  - Wellcome Trust/United Kingdom
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Int J Dermatol
+JT  - International journal of dermatology
+JID - 0243704
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Acanthosis Nigricans/*genetics
+MH  - Cerebral Infarction/*genetics
+MH  - Child
+MH  - Clitoris/abnormalities
+MH  - Dentofacial Deformities/*genetics
+MH  - Donohue Syndrome/*genetics
+MH  - Female
+MH  - Genes, Recessive
+MH  - Humans
+MH  - Phenotype
+MH  - Receptor, Insulin/*genetics
+MH  - Recurrence
+EDAT- 2013/01/26 06:00
+MHDA- 2013/07/10 06:00
+CRDT- 2013/01/26 06:00
+PHST- 2013/01/26 06:00 [entrez]
+PHST- 2013/01/26 06:00 [pubmed]
+PHST- 2013/07/10 06:00 [medline]
+AID - 10.1111/j.1365-4632.2012.05665.x [doi]
+PST - ppublish
+SO  - Int J Dermatol. 2013 Feb;52(2):182-5. doi: 10.1111/j.1365-4632.2012.05665.x.
+
+PMID- 23272513
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130307
+LR  - 20171116
+IS  - 0048-7848 (Print)
+IS  - 0048-7848 (Linking)
+VI  - 116
+IP  - 3
+DP  - 2012 Jul-Sep
+TI  - Rare types of diabetes mellitus.
+PG  - 700-7
+AB  - Diabetes mellitus is a heterogenous disorder characterized by chronic
+      hyperglycemia and induced by a large number of etiopathogenic conditions. Beside 
+      type 1 and type 2 diabetes, which account for almost 90% of all cases,
+      practitioners may encounter patients with more infrequent forms of diabetes, as
+      those induced by mutations of a single gene, atypical immune disorders or
+      neonatal diabetes. Monogenic diabetes is represented by genetic disorders in the 
+      structure of the beta-cell (the MODY syndromes and the mutations of mitochondrial
+      DNA) or in the insulin's action (type A insulin resistance syndrome,
+      Rabson-Mendenhall syndrome, leprechaunism, lipodystrophies). The rare forms of
+      immune diabetes are determined by antibodies against insulin or insulin receptor 
+      or appear as a component of the "stiff man syndrome". Neonatal diabetes is
+      induced by mutations in genes that control beta-cell development and function and
+      may have a transient or permanent nature. Knowledge of the uncommon forms of
+      diabetes mellitus enables physicians to apply the optimal treatment, to estimate 
+      the evolution of the patient and to apply a complete family screening in order to
+      diagnose all other blood relatives as soon as possible.
+FAU - Mihai, B
+AU  - Mihai B
+AD  - Discipline of Diabetes, Nutrition, Metabolic Diseases, University of Medicine and
+      Pharmacy Grigore T. Popa-Iasi School of Medicine.
+FAU - Mihai, Catalina
+AU  - Mihai C
+FAU - Cijevschi-Prelipcean, Cristina
+AU  - Cijevschi-Prelipcean C
+FAU - Lacatusu, Cristina
+AU  - Lacatusu C
+LA  - eng
+PT  - Journal Article
+PL  - Romania
+TA  - Rev Med Chir Soc Med Nat Iasi
+JT  - Revista medico-chirurgicala a Societatii de Medici si Naturalisti din Iasi
+JID - 0413735
+RN  - 0 (Insulin)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Diabetes Mellitus/diagnosis/etiology/*genetics/immunology
+MH  - Diabetes Mellitus, Type 1/genetics
+MH  - Diabetes Mellitus, Type 2/genetics
+MH  - Diagnosis, Differential
+MH  - Donohue Syndrome/genetics
+MH  - Genetic Predisposition to Disease
+MH  - Genetic Testing
+MH  - Humans
+MH  - Insulin/genetics
+MH  - Metabolic Syndrome/genetics
+MH  - Mutation
+MH  - Rare Diseases
+MH  - Receptor, Insulin/genetics
+MH  - Severity of Illness Index
+EDAT- 2013/01/01 06:00
+MHDA- 2013/03/08 06:00
+CRDT- 2013/01/01 06:00
+PHST- 2013/01/01 06:00 [entrez]
+PHST- 2013/01/01 06:00 [pubmed]
+PHST- 2013/03/08 06:00 [medline]
+PST - ppublish
+SO  - Rev Med Chir Soc Med Nat Iasi. 2012 Jul-Sep;116(3):700-7.
+
+PMID- 23263437
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140109
+LR  - 20121224
+IS  - 1998-3905 (Electronic)
+IS  - 0970-4388 (Linking)
+VI  - 30
+IP  - 3
+DP  - 2012 Jul-Sep
+TI  - Rabson-Mendenhall syndrome.
+PG  - 279-82
+LID - 10.4103/0970-4388.105026 [doi]
+AB  - Rabson-Mendenhall syndrome is a rare, autosomal recessive disorder affecting
+      insulin receptor. This disorder is characterized by insulin-resistant diabetes
+      mellitus, hyperinsulinemia, deficiency of subcutaneous fat, acanthosis nigrican, 
+      growth retardation, coarse and senile appearance, precocious puberty, and dental 
+      prematurity, enlarged genitalia, and pineal hyperplasia. Mutations of the insulin
+      receptor gene affecting insulin action appear to be the basic mechanism
+      underlying this syndrome. Herein, we present a case report on Rabson-Mendenhall
+      syndrome in a 9-year-old girl.
+FAU - Gupta, J
+AU  - Gupta J
+AD  - Department of Oral Medicine and Radiology, Mahatma Gandhi Postgraduate Institute 
+      of Dental Sciences, Gorimedu, Indira Nagar, Pondicherry, India.
+      juhi_7us@yahoo.co.in
+FAU - Daniel, Jonathan M
+AU  - Daniel JM
+FAU - Vasudevan, V
+AU  - Vasudevan V
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - India
+TA  - J Indian Soc Pedod Prev Dent
+JT  - Journal of the Indian Society of Pedodontics and Preventive Dentistry
+JID - 8710631
+SB  - D
+MH  - Aging, Premature/diagnosis
+MH  - Child
+MH  - Donohue Syndrome/*diagnosis
+MH  - Female
+MH  - Humans
+MH  - Macroglossia/diagnosis
+MH  - Maxilla/abnormalities
+MH  - Open Bite/diagnosis
+MH  - Tooth Eruption/physiology
+EDAT- 2012/12/25 06:00
+MHDA- 2014/01/10 06:00
+CRDT- 2012/12/25 06:00
+PHST- 2012/12/25 06:00 [entrez]
+PHST- 2012/12/25 06:00 [pubmed]
+PHST- 2014/01/10 06:00 [medline]
+AID - JIndianSocPedodPrevDent_2012_30_3_279_105026 [pii]
+AID - 10.4103/0970-4388.105026 [doi]
+PST - ppublish
+SO  - J Indian Soc Pedod Prev Dent. 2012 Jul-Sep;30(3):279-82. doi:
+      10.4103/0970-4388.105026.
+
+PMID- 23229189
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140318
+LR  - 20171006
+IS  - 1432-1076 (Electronic)
+IS  - 0340-6199 (Linking)
+VI  - 172
+IP  - 8
+DP  - 2013 Aug
+TI  - Severe progressive obstructive cardiomyopathy and renal tubular dysfunction in
+      Donohue syndrome with decreased insulin receptor autophosphorylation due to a
+      novel INSR mutation.
+PG  - 1125-9
+LID - 10.1007/s00431-012-1901-7 [doi]
+AB  - UNLABELLED: Donohue syndrome (leprechaunism; OMIM *246200) is a rare, recessively
+      inherited disorder of extreme insulin resistance due to mutations in the insulin 
+      receptor gene (INSR) causing either defects in insulin binding or receptor
+      autophosphorylation and tyrosine kinase activity. We report a patient with
+      pronounced clinical picture of leprechaunism who developed severe progressive
+      hypertrophic obstructive cardiomyopathy (HOCM) and renal tubular dysfunction
+      which improved on continuous subcutaneous infusion of recombinant human
+      insulin-like growth factor-1 (rhIGF-I). INSR gene molecular analysis and insulin 
+      receptor (IR) autophosphorylation on cultured fibroblasts were performed. A novel
+      homozygous missense mutation p.Leu795Pro was found, located in the extracellular 
+      portion of the beta subunit of the insulin receptor. The post-binding defect of
+      the insulin receptor signaling in cultured fibroblasts demonstrated decreased
+      insulin receptor autophosphorylation. CONCLUSION: Treatment with rhIGF-I
+      partially reversed severe progressive HOCM and renal tubular dysfunction in a
+      patient with Donohue syndrome associated with a novel p.Leu795Pro INSR gene
+      mutation causing a severe decrease in IR autophosphorylation.
+FAU - Hovnik, Tinka
+AU  - Hovnik T
+AD  - Department of Pediatric Endocrinology, Diabetes and Metabolic Diseases,
+      University Children's Hospital, Bohoriceva 20, SI-1525, Ljubljana, Slovenia.
+FAU - Bratanic, Nevenka
+AU  - Bratanic N
+FAU - Podkrajsek, Katarina Trebusak
+AU  - Podkrajsek KT
+FAU - Kovac, Jernej
+AU  - Kovac J
+FAU - Paro, Darja
+AU  - Paro D
+FAU - Podnar, Tomaz
+AU  - Podnar T
+FAU - Bratina, Natasa
+AU  - Bratina N
+FAU - Battelino, Tadej
+AU  - Battelino T
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121211
+PL  - Germany
+TA  - Eur J Pediatr
+JT  - European journal of pediatrics
+JID - 7603873
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 0 (myotrophin)
+RN  - 67763-96-6 (Insulin-Like Growth Factor I)
+RN  - 9Y8NXQ24VQ (Propranolol)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+CIN - Eur J Pediatr. 2014 Feb;173(2):263. PMID: 23982247
+MH  - Cardiomyopathy, Hypertrophic/drug therapy/*genetics/metabolism
+MH  - Donohue Syndrome/*genetics/metabolism
+MH  - Fatal Outcome
+MH  - Growth Disorders/genetics/metabolism
+MH  - Humans
+MH  - Insulin Resistance/*genetics
+MH  - Insulin-Like Growth Factor I/*therapeutic use
+MH  - Intercellular Signaling Peptides and Proteins/*therapeutic use
+MH  - Mutation, Missense
+MH  - Propranolol/*therapeutic use
+MH  - Receptor, Insulin/*genetics/metabolism
+EDAT- 2012/12/12 06:00
+MHDA- 2014/03/19 06:00
+CRDT- 2012/12/12 06:00
+PHST- 2012/04/20 00:00 [received]
+PHST- 2012/11/22 00:00 [accepted]
+PHST- 2012/11/16 00:00 [revised]
+PHST- 2012/12/12 06:00 [entrez]
+PHST- 2012/12/12 06:00 [pubmed]
+PHST- 2014/03/19 06:00 [medline]
+AID - 10.1007/s00431-012-1901-7 [doi]
+PST - ppublish
+SO  - Eur J Pediatr. 2013 Aug;172(8):1125-9. doi: 10.1007/s00431-012-1901-7. Epub 2012 
+      Dec 11.
+
+PMID- 22972224
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130722
+LR  - 20141110
+IS  - 1348-4540 (Electronic)
+IS  - 0918-8959 (Linking)
+VI  - 60
+IP  - 1
+DP  - 2013
+TI  - Leprechaunism (Donohue syndrome): a case bearing novel compound heterozygous
+      mutations in the insulin receptor gene.
+PG  - 107-12
+AB  - Leprechaunism (Donohue syndrome) is the most severe type of insulin receptor
+      (INSR) gene anomaly with the majority of patients surviving for only 2 years. We 
+      report a surviving 2 -year-old male with leprechaunism, bearing novel compound
+      heterozygous mutations in the INSR. The patient is a Japanese boy with acanthosis
+      nigricans, lack of subcutaneous fat, hirsutism, thick lips, gum hypertrophy and
+      extremely high insulin levels (6702 mU/mL). He was as having identified novel
+      compound heterozygous mutations in INSR (p.T910M and p. E1047K). At 24 day-old,
+      recombinant human insulin-like growth factor 1 (rh-IGF1) treatment was started
+      because of poor weight gain. At 2 years old, the patient's serum glucose level
+      and HbA1C value had worsened, and both a bolus of rh-IGF-1 and a subcutaneous
+      injection of a rapid-acting insulin analog after meals, in addition to
+      alpha-glycosidase inhibitor, were initiated from 2 years onward. Oxygen
+      administration and biphasic positive airway pressure treatment were also
+      initiated from 2 years old due to upper airway obstruction with adenoidal
+      hypertrophy. In the experiments conducted using COS7 cells homozygously
+      transfected with the INSR mutation, T910M INSR failed to process the proreceptor 
+      and decreased insulin-stimulated tyrosine phosphorylation. E1047K INSR resulted
+      in a complete absence of insulin-stimulated tyrosine phosphorylation. These
+      findings suggest the near absence of INSR in this patient. We consider that the
+      rhIGF1 treatment contributed to his long survival, but it was not able to prevent
+      his diabetic condition. Our report provides important insights into the function 
+      of INSR, and for the treatment of leprechaunism.
+FAU - Kawashima, Yuki
+AU  - Kawashima Y
+AD  - Division of Pediatrics & Perinatology, Tottori University Faculty of Medicine,
+      Yonago 683-8504, Japan. yuki.kawashima@med.tottori-u.ac.jp
+FAU - Nishimura, Rei
+AU  - Nishimura R
+FAU - Utsunomiya, Akari
+AU  - Utsunomiya A
+FAU - Kagawa, Reiko
+AU  - Kagawa R
+FAU - Funata, Hiroaki
+AU  - Funata H
+FAU - Fujimoto, Masanobu
+AU  - Fujimoto M
+FAU - Hanaki, Keiichi
+AU  - Hanaki K
+FAU - Kanzaki, Susumu
+AU  - Kanzaki S
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20121009
+PL  - Japan
+TA  - Endocr J
+JT  - Endocrine journal
+JID - 9313485
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin, Short-Acting)
+RN  - 0 (Recombinant Proteins)
+RN  - 67763-96-6 (Insulin-Like Growth Factor I)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Child, Preschool
+MH  - Donohue Syndrome/drug therapy/*genetics
+MH  - Humans
+MH  - Hypoglycemic Agents/therapeutic use
+MH  - Infant
+MH  - Insulin, Short-Acting/therapeutic use
+MH  - Insulin-Like Growth Factor I/therapeutic use
+MH  - Male
+MH  - Mutation
+MH  - Receptor, Insulin/*genetics
+MH  - Recombinant Proteins/therapeutic use
+EDAT- 2012/09/14 06:00
+MHDA- 2013/07/23 06:00
+CRDT- 2012/09/14 06:00
+PHST- 2012/09/14 06:00 [entrez]
+PHST- 2012/09/14 06:00 [pubmed]
+PHST- 2013/07/23 06:00 [medline]
+AID - DN/JST.JSTAGE/endocrj/EJ12-0289 [pii]
+PST - ppublish
+SO  - Endocr J. 2013;60(1):107-12. Epub 2012 Oct 9.
+
+PMID- 22876563
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120904
+LR  - 20130107
+IS  - 0334-018X (Print)
+IS  - 0334-018X (Linking)
+VI  - 25
+IP  - 5-6
+DP  - 2012
+TI  - A case of Rabson-Mendenhall syndrome with a novel mutation in the tyrosine kinase
+      domain of the insulin receptor gene complicated by medullary sponge kidney.
+PG  - 587-90
+AB  - Rabson-Mendenhall syndrome (RMS) is a genetic disorder characterized by severe
+      insulin resistance and somatic characteristics. Recombinant insulin-like growth
+      factor 1 (r-IGF-1) is used to treat RMS, as the IGF-1 and insulin receptors share
+      homology. However, the effect of r-IGF-1 varies in patients and it is difficult
+      to manage metabolic status appropriately in r-IGF-1 resistant cases. We report a 
+      Japanese boy with RMS who showed resistance to r-IGF-1 therapy and a novel
+      mutation in the insulin receptor in the tyrosine kinase domain. Mutations in this
+      region disturb tyrosine kinase catalytic activity in IGF-1 receptors as a result 
+      of dominant negative effects. We consider this mutation to be the cause of
+      resistance to r-IGF-1. The patient also exhibited radiographical features of
+      medullary sponge kidney and had severe nephrocalcinosis and hypokalemia,
+      indicating Bartter syndrome. However, analysis revealed no mutations in the
+      responsible genes and the etiology of the renal abnormalities therefore remains
+      unknown.
+FAU - Abe, Yuki
+AU  - Abe Y
+AD  - Department of Pediatrics, Niigata City General Hospital, Niigata, Japan.
+      y-abe@hosp.niigata.niigata.jp
+FAU - Sato, Takashi
+AU  - Sato T
+FAU - Takagi, Masaki
+AU  - Takagi M
+FAU - Watanabe, Toru
+AU  - Watanabe T
+FAU - Nagayama, Yoshihisa
+AU  - Nagayama Y
+FAU - Hasegawa, Tomonobu
+AU  - Hasegawa T
+FAU - Abe, Tokinari
+AU  - Abe T
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Germany
+TA  - J Pediatr Endocrinol Metab
+JT  - Journal of pediatric endocrinology & metabolism : JPEM
+JID - 9508900
+RN  - EC 2.7.10.1 (Protein-Tyrosine Kinases)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Donohue Syndrome/*complications/*genetics
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - Medullary Sponge Kidney/*complications
+MH  - Protein Structure, Tertiary/genetics
+MH  - Protein-Tyrosine Kinases/chemistry/*genetics
+MH  - Receptor, Insulin/chemistry/*genetics
+EDAT- 2012/08/11 06:00
+MHDA- 2012/09/05 06:00
+CRDT- 2012/08/11 06:00
+PHST- 2012/08/11 06:00 [entrez]
+PHST- 2012/08/11 06:00 [pubmed]
+PHST- 2012/09/05 06:00 [medline]
+PST - ppublish
+SO  - J Pediatr Endocrinol Metab. 2012;25(5-6):587-90.
+
+PMID- 22824672
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130701
+LR  - 20120724
+IS  - 2046-9055 (Electronic)
+IS  - 2046-9047 (Linking)
+VI  - 32
+IP  - 3
+DP  - 2012 Aug
+TI  - A novel leprechaunism mutation, Cys807Arg, in an Arab infant: a rare cause of
+      hypoglycaemia.
+PG  - 183-5
+LID - 10.1179/2046905512Y.0000000004 [doi]
+AB  - Leprechaunism is a rare autosomal recessive disorder which is usually fatal in
+      early infancy or childhood. There is a paucity of genetic data on leprechaunism
+      in the Arab population. A 4-month-old boy presented with jaundice, asymptomatic
+      hypoglycaemia and growth retardation with features of leprechaunism. A novel
+      Cys807Arg was identified, which could facilitate antenatal diagnosis for families
+      in the Middle East.
+FAU - Baqir, Zaineb S
+AU  - Baqir ZS
+AD  - Division of Child Health, Royal Hospital, Bowsher, Muscat, Sultanate of Oman.
+FAU - Al-Lawati, Tawfiq T
+AU  - Al-Lawati TT
+FAU - Al Hussaini, Saniya O
+AU  - Al Hussaini SO
+FAU - Al-Sinani, Aisha
+AU  - Al-Sinani A
+FAU - Al-Said, Khoula
+AU  - Al-Said K
+FAU - Al-Rashdi, Ismail
+AU  - Al-Rashdi I
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - England
+TA  - Paediatr Int Child Health
+JT  - Paediatrics and international child health
+JID - 101582666
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Arabs
+MH  - Donohue Syndrome/*diagnosis
+MH  - Humans
+MH  - Hypoglycemia/*etiology
+MH  - Infant
+MH  - Male
+MH  - Middle East
+MH  - *Mutation, Missense
+MH  - Receptor, Insulin/*genetics
+EDAT- 2012/07/25 06:00
+MHDA- 2013/07/03 06:00
+CRDT- 2012/07/25 06:00
+PHST- 2012/07/25 06:00 [entrez]
+PHST- 2012/07/25 06:00 [pubmed]
+PHST- 2013/07/03 06:00 [medline]
+AID - 10.1179/2046905512Y.0000000004 [doi]
+PST - ppublish
+SO  - Paediatr Int Child Health. 2012 Aug;32(3):183-5. doi:
+      10.1179/2046905512Y.0000000004.
+
+PMID- 22768670
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120724
+LR  - 20120706
+IS  - 0334-018X (Print)
+IS  - 0334-018X (Linking)
+VI  - 25
+IP  - 3-4
+DP  - 2012
+TI  - A novel mutation of the insulin receptor gene in a preterm infant with Donohue
+      syndrome and heart failure.
+PG  - 363-6
+AB  - Donohue syndrome (DS) is a rare autosomal recessive condition caused by mutations
+      in the gene encoding the insulin receptor. It is characterised by severe
+      metabolic and endocrine derangement, prenatal and postnatal linear growth
+      impairment, soft tissue overgrowth, and poor development of adipose tissue and
+      muscle. Causes of death, which is often within the first year of life, include
+      intercurrent infection and, in some cases, heart failure. Management is currently
+      based on case reports and very small case series only, and no formal guidelines
+      or recommendations exist. We describe a preterm infant who had typical features
+      of DS but who later developed hypertrophic cardiomyopathy with heart failure
+      leading to death at 10 weeks old. Molecular genetic analysis revealed compound
+      heterozygosity for the previously reported p.Arg890X nonsense mutation and the
+      novel p.Tyr818Cys missense mutation in the INSR gene. Tyrosine 818 falls in an
+      exquisitely conserved residue of the alphabeta fibronectin domain of the insulin 
+      receptor, whose structure and function are much less well understood than other
+      parts of the receptor. We discuss management options for DS, including the
+      therapeutic dilemma around whether recombinant human insulin-like growth factor
+      1, one of the few available treatments for the syndrome, may exacerbate
+      hypertrophic cardiomyopathy and cardiac failure.
+FAU - Nobile, Stefano
+AU  - Nobile S
+AD  - Division of Neonatology, Department of Neonatal Medicine, Salesi Children's
+      University Hospital, Ancona, Italy. stenob@iol.it
+FAU - Semple, Robert K
+AU  - Semple RK
+FAU - Carnielli, Virgilio P
+AU  - Carnielli VP
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Germany
+TA  - J Pediatr Endocrinol Metab
+JT  - Journal of pediatric endocrinology & metabolism : JPEM
+JID - 9508900
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Cardiomyopathy, Hypertrophic/*etiology
+MH  - Donohue Syndrome/*complications/*genetics
+MH  - Echocardiography
+MH  - Fatal Outcome
+MH  - Heart Failure/*etiology
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Infant, Premature
+MH  - Male
+MH  - Mutation/*genetics
+MH  - Receptor, Insulin/*genetics
+EDAT- 2012/07/10 06:00
+MHDA- 2012/07/25 06:00
+CRDT- 2012/07/10 06:00
+PHST- 2012/07/10 06:00 [entrez]
+PHST- 2012/07/10 06:00 [pubmed]
+PHST- 2012/07/25 06:00 [medline]
+PST - ppublish
+SO  - J Pediatr Endocrinol Metab. 2012;25(3-4):363-6.
+
+PMID- 22563226
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120831
+LR  - 20150225
+IS  - 1598-6357 (Electronic)
+IS  - 1011-8934 (Linking)
+VI  - 27
+IP  - 5
+DP  - 2012 May
+TI  - Two novel insulin receptor gene mutations in a patient with Rabson-Mendenhall
+      syndrome: the first Korean case confirmed by biochemical, and molecular evidence.
+PG  - 565-8
+LID - 10.3346/jkms.2012.27.5.565 [doi]
+AB  - Rabson-Mendenhall syndrome (RMS) is a rare syndrome manifested by extreme insulin
+      resistance with hyperinsulinemia, acanthosis nigricans, tooth dysplasia and
+      growth retardation. Our patient was first noted at the age of 8 months due to
+      pigmentations on skin-folded areas. Initial laboratory tests showed normal
+      fasting glucose (69 mg/dL). Fasting insulin level was severely elevated, up to
+      554.6 microIU/mL, and c-peptide level was increased, up to 13.81 ng/mL. However, 
+      hemoglobin A1c was within normal range (4.8%). He is now 11 yr old. His growth
+      development followed the 5-10th percentile and oral hypoglycemic agents are being
+      administered. The last laboratory results showed insulin 364.1 microIU/mL,
+      C-peptide 4.30 ng/mL, and hemoglobin A1c 7.6%. The boy was a compound
+      heterozygote for the c.90C > A and c.712G > A mutations of the insulin receptor
+      gene, INSR, which are nonsense and missense mutations. In summary, we report the 
+      first Korean case of RMS, which was confirmed by two novel mutations of the INSR.
+FAU - Kim, Doosoo
+AU  - Kim D
+AD  - Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University School 
+      of Medicine, Seoul, Korea.
+FAU - Cho, Sung Yoon
+AU  - Cho SY
+FAU - Yeau, Sung-Hee
+AU  - Yeau SH
+FAU - Park, Sung Won
+AU  - Park SW
+FAU - Sohn, Young Bae
+AU  - Sohn YB
+FAU - Kwon, Min-Jung
+AU  - Kwon MJ
+FAU - Kim, Ji-Yeon
+AU  - Kim JY
+FAU - Ki, Chang-Seok
+AU  - Ki CS
+FAU - Jin, Dong-Kyu
+AU  - Jin DK
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120425
+PL  - Korea (South)
+TA  - J Korean Med Sci
+JT  - Journal of Korean medical science
+JID - 8703518
+RN  - 0 (Blood Glucose)
+RN  - 0 (C-Peptide)
+RN  - 0 (Codon, Nonsense)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Asian Continental Ancestry Group/*genetics
+MH  - Base Sequence
+MH  - Blood Glucose/analysis
+MH  - C-Peptide/blood
+MH  - Codon, Nonsense
+MH  - Donohue Syndrome/drug therapy/*genetics
+MH  - Heterozygote
+MH  - Humans
+MH  - Hypoglycemic Agents/therapeutic use
+MH  - Infant
+MH  - Insulin/blood
+MH  - Male
+MH  - Mutation, Missense
+MH  - Receptor, Insulin/*genetics
+MH  - Republic of Korea
+MH  - Sequence Analysis, DNA
+PMC - PMC3342552
+OTO - NOTNLM
+OT  - INSR
+OT  - Insulin Resistance
+OT  - Rabson-Mendenhall Syndrome
+OT  - Receptor, Insulin
+EDAT- 2012/05/09 06:00
+MHDA- 2012/09/01 06:00
+CRDT- 2012/05/08 06:00
+PHST- 2011/05/06 00:00 [received]
+PHST- 2012/02/01 00:00 [accepted]
+PHST- 2012/05/08 06:00 [entrez]
+PHST- 2012/05/09 06:00 [pubmed]
+PHST- 2012/09/01 06:00 [medline]
+AID - 10.3346/jkms.2012.27.5.565 [doi]
+PST - ppublish
+SO  - J Korean Med Sci. 2012 May;27(5):565-8. doi: 10.3346/jkms.2012.27.5.565. Epub
+      2012 Apr 25.
+
+PMID- 22399506
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120723
+LR  - 20120507
+IS  - 1945-7197 (Electronic)
+IS  - 0021-972X (Linking)
+VI  - 97
+IP  - 5
+DP  - 2012 May
+TI  - "Donohue syndrome".
+PG  - 1416-7
+LID - 10.1210/jc.2011-3215 [doi]
+FAU - de Bock, Martin
+AU  - de Bock M
+AD  - The Liggins Institute, University of Auckland, Private Bag 92019, Auckland 1023, 
+      New Zealand. m.debock@auckland.ac.nz
+FAU - Hayes, Ian
+AU  - Hayes I
+FAU - Semple, Robert
+AU  - Semple R
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20120307
+PL  - United States
+TA  - J Clin Endocrinol Metab
+JT  - The Journal of clinical endocrinology and metabolism
+JID - 0375362
+SB  - AIM
+SB  - IM
+MH  - Donohue Syndrome/*diagnosis
+MH  - Fatal Outcome
+MH  - Female
+MH  - Humans
+MH  - Infant
+EDAT- 2012/03/09 06:00
+MHDA- 2012/07/24 06:00
+CRDT- 2012/03/09 06:00
+PHST- 2012/03/09 06:00 [entrez]
+PHST- 2012/03/09 06:00 [pubmed]
+PHST- 2012/07/24 06:00 [medline]
+AID - jc.2011-3215 [pii]
+AID - 10.1210/jc.2011-3215 [doi]
+PST - ppublish
+SO  - J Clin Endocrinol Metab. 2012 May;97(5):1416-7. doi: 10.1210/jc.2011-3215. Epub
+      2012 Mar 7.
+
+PMID- 22172957
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120720
+LR  - 20120327
+IS  - 1533-0311 (Electronic)
+IS  - 0193-1091 (Linking)
+VI  - 34
+IP  - 2
+DP  - 2012 Apr
+TI  - Areolar sebaceous hyperplasia with underlying primary duct carcinoma of the
+      breast in a woman with Donohue syndrome (leprechaunism).
+PG  - e15-8
+LID - 10.1097/DAD.0b013e318231311a [doi]
+AB  - Areolar hyperplasia is only reported when exaggerated, and even so, exaggerated
+      areolar sebaceous hyperplasia is rare. We have recently seen a case of areolar
+      sebaceous hyperplasia in a 32-year-old woman with Donohue syndrome
+      (leprechaunism), who also had an invasive ductal carcinoma in the same breast.
+      The patient showed typical "elfin-like" face with wide nostrils and thick lips,
+      large and low-set ears, and dysplastic nails. The areola showed a yellowish
+      thickened plaque of 5-cm diameter that corresponded to a hyperplasia of the
+      sebaceous glands. Immunohistochemistry for the mismatch repair proteins (MLH1,
+      MSH2, MSH6, and PMS2) was performed on the sebaceous hyperplasia and on the
+      breast carcinoma, and no lack of expression of the markers was evidenced. We have
+      found no other reported case of areolar sebaceous hyperplasia either in cases of 
+      breast carcinoma or in cases of leprechaunism.
+FAU - Fernandez-Flores, Angel
+AU  - Fernandez-Flores A
+AD  - Department of Anatomic Pathology, Hospital El Bierzo, Ponferrada, Spain.
+      gpyauflowerlion@terra.es
+FAU - Valerdiz, Saul
+AU  - Valerdiz S
+FAU - Crespo, Luis G
+AU  - Crespo LG
+FAU - Rodriguez-Cernuda, Purificacion
+AU  - Rodriguez-Cernuda P
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - Am J Dermatopathol
+JT  - The American Journal of dermatopathology
+JID - 7911005
+SB  - IM
+MH  - Adult
+MH  - Breast Neoplasms/*complications/pathology
+MH  - Carcinoma, Ductal, Breast/*complications/pathology
+MH  - Donohue Syndrome/*complications/pathology
+MH  - Female
+MH  - Humans
+MH  - Hyperplasia/pathology
+MH  - Immunohistochemistry
+MH  - Nipples/*pathology
+MH  - Sebaceous Glands/*pathology
+EDAT- 2011/12/17 06:00
+MHDA- 2012/07/21 06:00
+CRDT- 2011/12/17 06:00
+PHST- 2011/12/17 06:00 [entrez]
+PHST- 2011/12/17 06:00 [pubmed]
+PHST- 2012/07/21 06:00 [medline]
+AID - 10.1097/DAD.0b013e318231311a [doi]
+PST - ppublish
+SO  - Am J Dermatopathol. 2012 Apr;34(2):e15-8. doi: 10.1097/DAD.0b013e318231311a.
+
+PMID- 21869538
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120605
+LR  - 20111201
+IS  - 1348-4540 (Electronic)
+IS  - 0918-8959 (Linking)
+VI  - 58
+IP  - 11
+DP  - 2011
+TI  - Functional characterization of insulin receptor gene mutations contributing to
+      Rabson-Mendenhall syndrome - phenotypic heterogeneity of insulin receptor gene
+      mutations.
+PG  - 931-40
+AB  - Rabson-Mendenhall syndrome (RMS) is a rare disorder that presents as severe
+      insulin resistance as a result of mutations present in the insulin receptor
+      (INSR). A Chinese girl with RMS presented with profound diabetes,
+      hyperinsulinemia, acanthosis nigricans, hirsutism, and abnormalities of teeth and
+      nails. Direct sequencing of the patient's INSR detected heterozygote mutations at
+      Arg83Gln (R83Q) and Ala1028Val (A1028V), with the former representing a novel
+      mutation. Functional studies of Chinese hamster ovary (CHO) cells transfected
+      with wild-type (WT) and mutant forms of INSR were performed to evaluate the
+      effects of these mutations on receptor expression and activation. Receptor
+      expression, insulin binding activity, and phosphorylation of the R83Q variant
+      were comparable to WT. In contrast, expression of the A1028V receptor was much
+      lower than that of WT INSR, and impairment of insulin binding and
+      autophosphorylation were nearly commensurate with the decrease in expression
+      detected. Reductions in the phosphorylation of IRS-1, Akt, and Erk1/2 (60%, 40%, 
+      and 50% of WT, respectively) indicate that the A1028V receptor contributes to
+      impaired signal transduction. In conclusion, INSR mutations associated with RMS
+      were identified. Moreover, the A1028V mutation associated with a decrease in
+      expression of INSR potentially accounts for loss of function of the INSR.
+FAU - Jiang, Shan
+AU  - Jiang S
+AD  - Department of Endocrinology and Metabolism, Shanghai Jiao Tong University
+      Affiliated Sixth People's Hospital, Shanghai Clinical Center of Diabetes,
+      Shanghai Key Laboratory of Diabetes Mellitus, Shanghai Diabetes Institute,
+      Shanghai, 200233, China.
+FAU - Fang, Qichen
+AU  - Fang Q
+FAU - Zhang, Feng
+AU  - Zhang F
+FAU - Wan, Hui
+AU  - Wan H
+FAU - Zhang, Rong
+AU  - Zhang R
+FAU - Wang, Congrong
+AU  - Wang C
+FAU - Bao, Yuqian
+AU  - Bao Y
+FAU - Zhang, Lei
+AU  - Zhang L
+FAU - Ma, Xiaojing
+AU  - Ma X
+FAU - Lu, Junxi
+AU  - Lu J
+FAU - Gao, Fei
+AU  - Gao F
+FAU - Xiang, Kunsan
+AU  - Xiang K
+FAU - Jia, Weiping
+AU  - Jia W
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110823
+PL  - Japan
+TA  - Endocr J
+JT  - Endocrine journal
+JID - 9313485
+RN  - 0 (Insulin)
+RN  - 63231-63-0 (RNA)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Asian Continental Ancestry Group
+MH  - Base Sequence
+MH  - CHO Cells
+MH  - Child
+MH  - Cricetinae
+MH  - Donohue Syndrome/*genetics/metabolism
+MH  - Female
+MH  - Genetic Variation
+MH  - Humans
+MH  - Insulin/metabolism
+MH  - Insulin Resistance/genetics
+MH  - Male
+MH  - Molecular Sequence Data
+MH  - Pedigree
+MH  - Polymorphism, Single Nucleotide
+MH  - RNA/chemistry/genetics
+MH  - Receptor, Insulin/*genetics/metabolism
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Signal Transduction
+MH  - Transfection
+EDAT- 2011/08/27 06:00
+MHDA- 2012/06/06 06:00
+CRDT- 2011/08/27 06:00
+PHST- 2011/08/27 06:00 [entrez]
+PHST- 2011/08/27 06:00 [pubmed]
+PHST- 2012/06/06 06:00 [medline]
+AID - JST.JSTAGE/endocrj/EJ11-0032 [pii]
+PST - ppublish
+SO  - Endocr J. 2011;58(11):931-40. Epub 2011 Aug 23.
+
+PMID- 21376683
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120716
+LR  - 20120228
+IS  - 1695-9531 (Electronic)
+IS  - 1695-4033 (Linking)
+VI  - 74
+IP  - 5
+DP  - 2011 May
+TI  - [Rabson-Mendenhall syndrome].
+PG  - 349-50
+LID - 10.1016/j.anpedi.2010.12.013 [doi]
+FAU - Aguado Lobo, I
+AU  - Aguado Lobo I
+FAU - Garcia Cuartero, B
+AU  - Garcia Cuartero B
+FAU - Gonzalez Vergaz, A
+AU  - Gonzalez Vergaz A
+LA  - spa
+PT  - Case Reports
+PT  - Letter
+TT  - Sindrome de Rabson-Mendenhall.
+DEP - 20110303
+PL  - Spain
+TA  - An Pediatr (Barc)
+JT  - Anales de pediatria (Barcelona, Spain : 2003)
+JID - 101162596
+SB  - IM
+MH  - Child
+MH  - Donohue Syndrome/*diagnosis
+MH  - Humans
+MH  - Male
+EDAT- 2011/03/08 06:00
+MHDA- 2012/07/17 06:00
+CRDT- 2011/03/08 06:00
+PHST- 2010/10/07 00:00 [received]
+PHST- 2010/12/20 00:00 [revised]
+PHST- 2010/12/31 00:00 [accepted]
+PHST- 2011/03/08 06:00 [entrez]
+PHST- 2011/03/08 06:00 [pubmed]
+PHST- 2012/07/17 06:00 [medline]
+AID - S1695-4033(11)00044-0 [pii]
+AID - 10.1016/j.anpedi.2010.12.013 [doi]
+PST - ppublish
+SO  - An Pediatr (Barc). 2011 May;74(5):349-50. doi: 10.1016/j.anpedi.2010.12.013. Epub
+      2011 Mar 3.
+
+PMID- 21092701
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110215
+LR  - 20140522
+IS  - 2081-237X (Print)
+IS  - 2083-8441 (Linking)
+VI  - 16
+IP  - 3
+DP  - 2010
+TI  - [Insulin receptor defect as a cause of Rabson-Mendenhall syndrome and other rare 
+      genetic insulin resistance syndromes].
+PG  - 205-12
+AB  - Insulin plays a very important role in maintaining homeostasis of the whole
+      organism. It regulates glucose metabolism, glycogen synthesis, lipid and protein 
+      metabolism. Insulin receptors are present in virtually all cells, which is
+      reflected by the diversity of regulatory processes in which this hormone is
+      involved. Any dysfunction of insulin signalling pathway as a result of insulin
+      receptor gene mutations is linked with various forms of insulin resistance,
+      including insulin resistance type A, Donohue or Rabson-Mendenhall syndrome, which
+      differ in the level of severity. Molecular analysis of insulin receptor gene may 
+      lead to a better understanding of molecular mechanisms underlying various types
+      of insulin resistance and help to develop a more efficient treatment. They may
+      also be used as a powerful tool in prenatal diagnostics as well as in pregnancy
+      planning.
+FAU - Rojek, Aleksandra
+AU  - Rojek A
+AD  - II Katedra Pediatrii, Wydzial Lekarski I Uniwersytetu Medycznego im. Karola
+      Marcinkowskiego w Poznaniu. aleksandra.rojek@gmail.com
+FAU - Niedziela, Marek
+AU  - Niedziela M
+LA  - pol
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Defekt receptora insuliny jako przyczyna zespolu Rabsona-Mendenhalla i innych
+      rzadkich postaci insulinoopornosci.
+PL  - Poland
+TA  - Pediatr Endocrinol Diabetes Metab
+JT  - Pediatric endocrinology, diabetes, and metabolism
+JID - 101518750
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Adult
+MH  - Donohue Syndrome/genetics/*metabolism
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Insulin Resistance/*physiology
+MH  - Pregnancy
+MH  - Receptor, Insulin/genetics/*metabolism
+EDAT- 2010/11/26 06:00
+MHDA- 2011/02/16 06:00
+CRDT- 2010/11/25 06:00
+PHST- 2010/11/25 06:00 [entrez]
+PHST- 2010/11/26 06:00 [pubmed]
+PHST- 2011/02/16 06:00 [medline]
+PST - ppublish
+SO  - Pediatr Endocrinol Diabetes Metab. 2010;16(3):205-12.
+
+PMID- 20711714
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110118
+LR  - 20170917
+IS  - 1432-0428 (Electronic)
+IS  - 0012-186X (Linking)
+VI  - 53
+IP  - 11
+DP  - 2010 Nov
+TI  - Multidrug therapy in a patient with Rabson-Mendenhall syndrome.
+PG  - 2454-5
+LID - 10.1007/s00125-010-1879-5 [doi]
+FAU - Moreira, Rodrigo O
+AU  - Moreira RO
+FAU - Zagury, R L
+AU  - Zagury RL
+FAU - Nascimento, T S
+AU  - Nascimento TS
+FAU - Zagury, L
+AU  - Zagury L
+LA  - eng
+PT  - Case Reports
+PT  - Letter
+DEP - 20100814
+PL  - Germany
+TA  - Diabetologia
+JT  - Diabetologia
+JID - 0006777
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Nitriles)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Thiazolidinediones)
+RN  - I6B4B2U96P (vildagliptin)
+RN  - PJY633525U (Adamantane)
+RN  - X4OV71U42S (pioglitazone)
+SB  - IM
+MH  - Adamantane/*analogs & derivatives/therapeutic use
+MH  - Adolescent
+MH  - Diabetes Mellitus, Type 2/complications/drug therapy
+MH  - Donohue Syndrome/*drug therapy
+MH  - Humans
+MH  - Hypoglycemic Agents/*therapeutic use
+MH  - Male
+MH  - Nitriles/*therapeutic use
+MH  - Pyrrolidines/*therapeutic use
+MH  - Thiazolidinediones/*therapeutic use
+EDAT- 2010/08/17 06:00
+MHDA- 2011/01/19 06:00
+CRDT- 2010/08/17 06:00
+PHST- 2010/06/07 00:00 [received]
+PHST- 2010/07/12 00:00 [accepted]
+PHST- 2010/08/17 06:00 [entrez]
+PHST- 2010/08/17 06:00 [pubmed]
+PHST- 2011/01/19 06:00 [medline]
+AID - 10.1007/s00125-010-1879-5 [doi]
+PST - ppublish
+SO  - Diabetologia. 2010 Nov;53(11):2454-5. doi: 10.1007/s00125-010-1879-5. Epub 2010
+      Aug 14.
+
+PMID- 20627358
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101104
+LR  - 20100727
+IS  - 1872-8227 (Electronic)
+IS  - 0168-8227 (Linking)
+VI  - 89
+IP  - 2
+DP  - 2010 Aug
+TI  - Long survival in Rabson-Mendenhall syndrome.
+PG  - e17-8
+LID - 10.1016/j.diabres.2010.04.023 [doi]
+FAU - Carrasco de la Fuente, M
+AU  - Carrasco de la Fuente M
+FAU - Barrio Castellanos, R
+AU  - Barrio Castellanos R
+FAU - Alonso Blanco, M
+AU  - Alonso Blanco M
+FAU - de la Calle Blasco, H
+AU  - de la Calle Blasco H
+LA  - eng
+PT  - Letter
+PL  - Ireland
+TA  - Diabetes Res Clin Pract
+JT  - Diabetes research and clinical practice
+JID - 8508335
+SB  - IM
+MH  - Donohue Syndrome/genetics/metabolism/*mortality/*pathology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Time Factors
+EDAT- 2010/07/16 06:00
+MHDA- 2010/11/05 06:00
+CRDT- 2010/07/15 06:00
+PHST- 2009/10/12 00:00 [received]
+PHST- 2010/04/29 00:00 [accepted]
+PHST- 2010/07/15 06:00 [entrez]
+PHST- 2010/07/16 06:00 [pubmed]
+PHST- 2010/11/05 06:00 [medline]
+AID - S0168-8227(10)00205-6 [pii]
+AID - 10.1016/j.diabres.2010.04.023 [doi]
+PST - ppublish
+SO  - Diabetes Res Clin Pract. 2010 Aug;89(2):e17-8. doi:
+      10.1016/j.diabres.2010.04.023.
+
+PMID- 20155514
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100615
+LR  - 20171014
+IS  - 1618-1255 (Electronic)
+IS  - 1618-1247 (Linking)
+VI  - 98
+IP  - 1
+DP  - 2010 Feb
+TI  - Rabson-Mendenhall syndrome: two case reports and a brief review of the
+      literature.
+PG  - 89-96
+LID - 10.1007/s10266-009-0106-7 [doi]
+AB  - Rabson-Mendenhall syndrome is a rare, autosomal recessive disorder characterized 
+      by insulin resistance syndrome, growth retardation, coarse and senile-looking
+      faces, mental precocity, early dentition, and pineal hyperplasia. Mutations of
+      the insulin receptor gene affecting insulin action appear to be the basic
+      mechanism underlying this syndrome. We report on Rabson-Mendenhall syndrome in
+      two siblings and briefly review the literature.
+FAU - Bathi, Renuka J
+AU  - Bathi RJ
+AD  - Department of Oral Medicine & Radiology, School of Dental Sciences, Sharda
+      University (Deemed University), Plot #32-34, Knowledge Park III, Greater Noida,
+      U. P., 201306, India. renukabathi@yahoo.com
+FAU - Parveen, Sameena
+AU  - Parveen S
+FAU - Mutalik, Sunil
+AU  - Mutalik S
+FAU - Rao, Reema
+AU  - Rao R
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+DEP - 20100216
+PL  - Japan
+TA  - Odontology
+JT  - Odontology
+JID - 101134822
+SB  - D
+SB  - IM
+MH  - Adolescent
+MH  - Child, Preschool
+MH  - Donohue Syndrome/*complications/pathology
+MH  - Female
+MH  - Humans
+MH  - Malocclusion/*complications/diagnosis/therapy
+MH  - Siblings
+MH  - Tooth Diseases/*complications/diagnosis/therapy
+RF  - 34
+EDAT- 2010/02/16 06:00
+MHDA- 2010/06/16 06:00
+CRDT- 2010/02/16 06:00
+PHST- 2008/09/19 00:00 [received]
+PHST- 2009/10/04 00:00 [accepted]
+PHST- 2010/02/16 06:00 [entrez]
+PHST- 2010/02/16 06:00 [pubmed]
+PHST- 2010/06/16 06:00 [medline]
+AID - 10.1007/s10266-009-0106-7 [doi]
+PST - ppublish
+SO  - Odontology. 2010 Feb;98(1):89-96. doi: 10.1007/s10266-009-0106-7. Epub 2010 Feb
+      16.
+
+PMID- 20033851
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100913
+LR  - 20171116
+IS  - 0219-1032 (Electronic)
+IS  - 1016-8478 (Linking)
+VI  - 29
+IP  - 1
+DP  - 2010 Jan
+TI  - Downregulation of Wnt-mediated ROS generation is causally implicated in
+      leprechaunism.
+PG  - 63-9
+LID - 10.1007/s10059-010-0017-z [doi]
+AB  - Although mutations in the insulin receptor have been causally implicated with
+      leprechaunism, the full pathophysiology of the syndrome cannot be accounted for
+      by malfunction of this gene alone. We sought to characterize a connection between
+      Wnt-mediated cell signaling and the production of reactive oxygen species (ROS)
+      which revealed a novel mechanistic basis for understanding the pathogenesis of
+      leprechaunism. To identify candidate genes involved in this process, a PCR-based 
+      subtractive hybridization was performed. Candidate genes were examined for
+      interaction with the Wnt signaling pathway and ROS generation. We found that
+      Dickkopf 1 (Dkk1), a Wnt inhibitor, is overexpressed in skin fibroblast cells
+      derived from three leprechaunism patients and that the cells showed an impaired
+      response to Wnt2 in terms of beta-catenin-Tcf activation. Knockdown of Dkk1 in
+      the patient cell lines rescued Wnt2-mediated Tcf activation. Concerted action of 
+      Wnt2 and knockdown of Dkk1 resulted in enhanced Nox4 expression and PDGF-induced 
+      ROS generation compared to parental patient cells. Furthermore, we found that
+      NFATc2 was activated in response to Wnt2 stimulation and directly activates Nox4 
+      expression. These data show a crosstalk between Wnt and ROS pathways which in
+      turn provides new mechanistic insights at the molecular level into the
+      pathogenesis of leprechaunism.
+FAU - Park, Ji Won
+AU  - Park JW
+AD  - Department of Life Sciences, Ewha Womans University, Seoul, 120-750, Korea.
+FAU - Kuehn, Hye Sun
+AU  - Kuehn HS
+FAU - Kim, So Youn
+AU  - Kim SY
+FAU - Chung, Kyung Min
+AU  - Chung KM
+FAU - Choi, Hyun
+AU  - Choi H
+FAU - Kim, Mira
+AU  - Kim M
+FAU - Kim, Jaesang
+AU  - Kim J
+FAU - Lee, Soo Young
+AU  - Lee SY
+FAU - Bae, Duk Soo
+AU  - Bae DS
+FAU - Jin, Dong-Kyu
+AU  - Jin DK
+FAU - Bae, Yun Soo
+AU  - Bae YS
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20091218
+PL  - Korea (South)
+TA  - Mol Cells
+JT  - Molecules and cells
+JID - 9610936
+RN  - 0 (DKK1 protein, human)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 0 (NFATC Transcription Factors)
+RN  - 0 (NFATC2 protein, human)
+RN  - 0 (Platelet-Derived Growth Factor)
+RN  - 0 (RNA, Small Interfering)
+RN  - 0 (Reactive Oxygen Species)
+RN  - 0 (T Cell Transcription Factor 1)
+RN  - 0 (Wnt2 Protein)
+RN  - 0 (beta Catenin)
+RN  - 0 (platelet-derived growth factor A)
+RN  - EC 1.6.3.- (NADPH Oxidase 4)
+RN  - EC 1.6.3.- (NADPH Oxidases)
+RN  - EC 1.6.3.- (NOX4 protein, human)
+SB  - IM
+MH  - Cell Culture Techniques
+MH  - Cells, Cultured
+MH  - Donohue Syndrome/*metabolism/pathology/physiopathology
+MH  - Fibroblasts/drug effects/*metabolism/pathology
+MH  - Gene Expression Profiling
+MH  - Humans
+MH  - Intercellular Signaling Peptides and Proteins/genetics/*metabolism
+MH  - NADPH Oxidase 4
+MH  - NADPH Oxidases/biosynthesis/genetics
+MH  - NFATC Transcription Factors/genetics/metabolism
+MH  - Platelet-Derived Growth Factor/pharmacology
+MH  - RNA, Small Interfering/genetics
+MH  - Reactive Oxygen Species/*metabolism
+MH  - Signal Transduction/drug effects/genetics
+MH  - Skin/pathology
+MH  - T Cell Transcription Factor 1/metabolism
+MH  - Transcriptional Activation/drug effects/genetics
+MH  - Wnt2 Protein/*metabolism
+MH  - beta Catenin/metabolism
+EDAT- 2009/12/25 06:00
+MHDA- 2010/09/14 06:00
+CRDT- 2009/12/25 06:00
+PHST- 2009/07/16 00:00 [received]
+PHST- 2009/10/14 00:00 [accepted]
+PHST- 2009/10/08 00:00 [revised]
+PHST- 2009/12/25 06:00 [entrez]
+PHST- 2009/12/25 06:00 [pubmed]
+PHST- 2010/09/14 06:00 [medline]
+AID - 10.1007/s10059-010-0017-z [doi]
+PST - ppublish
+SO  - Mol Cells. 2010 Jan;29(1):63-9. doi: 10.1007/s10059-010-0017-z. Epub 2009 Dec 18.
+
+PMID- 19882513
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100401
+LR  - 20171206
+IS  - 1120-6721 (Print)
+IS  - 1120-6721 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2010 Jan-Feb
+TI  - Sustained regression of florid diabetic retinopathy in a patient with Donohue
+      syndrome (leprechaunism).
+PG  - 224-7
+AB  - PURPOSE: Leprechaunism is a rare congenital syndrome caused by mutations of the
+      insulin receptor gene, transmitted in an autosomal recessive pattern. Insulin
+      growth factor-1 (IGF-1) treatment can be a therapeutic option in this syndrome by
+      its insulin-like effects. Nevertheless, it is of note that IGF-1 has also an
+      angiogenic activity. METHODS: Fundus examination by ophthalmoscopy,
+      fluorangiography, and laser treatment were performed. RESULTS: A 17-year-old girl
+      with leprechaunism, under treatment with high doses of insulin, presented a
+      florid diabetic retinopathy. The large neovascularization of the disk regressed
+      after treatment with argon laser panretinal photocoagulation. Five years after
+      treatment, the patient maintained good vision. CONCLUSIONS: This clinical case is
+      of interest for 2 reasons: 1) the large retinal neovascularization was likely due
+      to the high insulin dosages; 2) this is the first case in which a sustained
+      regression of retinal neovascularization has been observed after laser treatment 
+      in leprechaunism.
+FAU - Casati, Stefano
+AU  - Casati S
+AD  - Department of Neurological and Visual Science, University of Verona, Verona,
+      Italy. stefano.casati@univr.it
+FAU - Zoppini, Giacomo
+AU  - Zoppini G
+FAU - Muggeo, Michele
+AU  - Muggeo M
+FAU - Marchini, Giorgio
+AU  - Marchini G
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - Eur J Ophthalmol
+JT  - European journal of ophthalmology
+JID - 9110772
+RN  - 0 (Blood Glucose)
+RN  - 0 (Insulin)
+RN  - EC 2.7.10.1 (Receptor, Insulin)
+SB  - IM
+MH  - Blood Glucose/analysis
+MH  - Diabetic Retinopathy/diagnosis/*physiopathology/surgery
+MH  - Donohue Syndrome/blood/drug therapy/*physiopathology
+MH  - Female
+MH  - Fluorescein Angiography
+MH  - Glucose Tolerance Test
+MH  - Humans
+MH  - Insulin/administration & dosage
+MH  - Laser Coagulation
+MH  - Ophthalmoscopy
+MH  - Receptor, Insulin/genetics
+MH  - Retinal Neovascularization/diagnosis/*physiopathology/surgery
+MH  - Visual Acuity/physiology
+MH  - Young Adult
+EDAT- 2009/11/03 06:00
+MHDA- 2010/04/02 06:00
+CRDT- 2009/11/03 06:00
+PHST- 2009/11/03 06:00 [entrez]
+PHST- 2009/11/03 06:00 [pubmed]
+PHST- 2010/04/02 06:00 [medline]
+AID - C09E5E29-1324-4BBE-8A76-D98CEDD27A03 [pii]
+PST - ppublish
+SO  - Eur J Ophthalmol. 2010 Jan-Feb;20(1):224-7.
+
+PMID- 19688205
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100507
+LR  - 20170922
+IS  - 1432-1998 (Electronic)
+IS  - 0301-0449 (Linking)
+VI  - 40
+IP  - 3
+DP  - 2010 Mar
+TI  - Polycystic ovaries in leprechaunism.
+PG  - 371
+LID - 10.1007/s00247-009-1379-2 [doi]
+FAU - Drohobyczer, Denise
+AU  - Drohobyczer D
+AD  - Department of Radiology, The Children's Hospital of Philadelphia, Philadelphia,
+      PA 19104, USA.
+FAU - Bellah, Richard
+AU  - Bellah R
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20090818
+PL  - Germany
+TA  - Pediatr Radiol
+JT  - Pediatric radiology
+JID - 0365332
+SB  - IM
+MH  - Donohue Syndrome/*complications/*diagnostic imaging
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Polycystic Ovary Syndrome/*complications/*diagnostic imaging
+MH  - *Ultrasonography
+EDAT- 2009/08/19 09:00
+MHDA- 2010/05/08 06:00
+CRDT- 2009/08/19 09:00
+PHST- 2009/05/22 00:00 [received]
+PHST- 2009/07/10 00:00 [accepted]
+PHST- 2009/07/09 00:00 [revised]
+PHST- 2009/08/19 09:00 [entrez]
+PHST- 2009/08/19 09:00 [pubmed]
+PHST- 2010/05/08 06:00 [medline]
+AID - 10.1007/s00247-009-1379-2 [doi]
+PST - ppublish
+SO  - Pediatr Radiol. 2010 Mar;40(3):371. doi: 10.1007/s00247-009-1379-2. Epub 2009 Aug
+      18.
+
+PMID- 14258927
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961201
+LR  - 20061115
+IS  - 0022-3476 (Print)
+IS  - 0022-3476 (Linking)
+VI  - 66
+DP  - 1965 Feb
+TI  - LEPRECHAUNISM (DONOHUE'S SYNDROME).
+PG  - 372-9
+FAU - KALLO, A
+AU  - KALLO A
+FAU - LAKATOS, I
+AU  - LAKATOS I
+FAU - SZIJARTO, L
+AU  - SZIJARTO L
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr
+JT  - The Journal of pediatrics
+JID - 0375410
+SB  - OM
+MH  - *Donohue Syndrome
+MH  - *Endocrine System Diseases
+MH  - *Genetics, Medical
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - *Infant, Newborn, Diseases
+MH  - *Pathology
+OTO - NLM
+OT  - *ENDOCRINE DISEASES
+OT  - *GENETICS, HUMAN
+OT  - *INFANT, NEWBORN
+OT  - *INFANT, NEWBORN, DISEASES
+OT  - *PATHOLOGY
+EDAT- 1965/02/01 00:00
+MHDA- 1965/02/01 00:01
+CRDT- 1965/02/01 00:00
+PHST- 1965/02/01 00:00 [pubmed]
+PHST- 1965/02/01 00:01 [medline]
+PHST- 1965/02/01 00:00 [entrez]
+PST - ppublish
+SO  - J Pediatr. 1965 Feb;66:372-9.
+
+PMID- 14187829
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961201
+LR  - 20111117
+IS  - 0035-3655 (Print)
+IS  - 0035-3655 (Linking)
+VI  - 84
+DP  - 1964 Jun
+TI  - [LEPRECHAUNISM. (APROPOS OF A LITTLE KNOWN FORM OF FAMILIAL OLIGOPHRENIA)].
+PG  - 494-502
+FAU - BAMATTER, F
+AU  - BAMATTER F
+LA  - fre
+PT  - Journal Article
+TT  - LEPRECHAUNISME. (A PROPOS D'UNE FORME D'OLIGOPHR'ENIE FAMILIALE PEU CONNUE)
+PL  - Switzerland
+TA  - Rev Med Suisse Romande
+JT  - Revue medicale de la Suisse romande
+JID - 0421524
+SB  - OM
+MH  - Child
+MH  - *Congenital Abnormalities
+MH  - *Donohue Syndrome
+MH  - *Dwarfism
+MH  - *Endocrine System Diseases
+MH  - *Facial Expression
+MH  - Female
+MH  - *Genetics, Medical
+MH  - *Genitalia
+MH  - *Genitalia, Female
+MH  - Humans
+MH  - *Intellectual Disability
+MH  - *Lipodystrophy
+MH  - *Metabolism, Inborn Errors
+OTO - NLM
+OT  - *ABNORMALITIES
+OT  - *CHILD
+OT  - *DWARFISM
+OT  - *ENDOCRINE DISEASES
+OT  - *FACIAL EXPRESSION
+OT  - *GENETICS, HUMAN
+OT  - *GENITALIA, FEMALE
+OT  - *LIPODYSTROPHY
+OT  - *MENTAL RETARDATION
+OT  - *METABOLISM, INBORN ERRORS
+EDAT- 1964/06/01 00:00
+MHDA- 1964/06/01 00:01
+CRDT- 1964/06/01 00:00
+PHST- 1964/06/01 00:00 [pubmed]
+PHST- 1964/06/01 00:01 [medline]
+PHST- 1964/06/01 00:00 [entrez]
+PST - ppublish
+SO  - Rev Med Suisse Romande. 1964 Jun;84:494-502.
+
+PMID- 14065999
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961201
+LR  - 20170219
+IS  - 0003-9888 (Print)
+IS  - 0003-9888 (Linking)
+VI  - 38
+DP  - 1963 Oct
+TI  - DYSTROPHIC CHANGES ASSOCIATED WITH LEPRECHAUNISM IN A MALE INFANT.
+PG  - 530-5
+FAU - SALMON, M A
+AU  - SALMON MA
+FAU - WEBB, J N
+AU  - WEBB JN
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Arch Dis Child
+JT  - Archives of disease in childhood
+JID - 0372434
+SB  - OM
+MH  - *Congenital Abnormalities
+MH  - *Donohue Syndrome
+MH  - *Dwarfism
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - *Pathology
+PMC - PMC2019091
+OTO - NLM
+OT  - *ABNORMALITIES
+OT  - *DWARFISM
+OT  - *INFANT
+OT  - *PATHOLOGY
+EDAT- 1963/10/01 00:00
+MHDA- 1963/10/01 00:01
+CRDT- 1963/10/01 00:00
+PHST- 1963/10/01 00:00 [pubmed]
+PHST- 1963/10/01 00:01 [medline]
+PHST- 1963/10/01 00:00 [entrez]
+PST - ppublish
+SO  - Arch Dis Child. 1963 Oct;38:530-5.
+
+PMID- 13928153
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19981101
+LR  - 20091021
+IS  - 0030-6002 (Print)
+IS  - 0030-6002 (Linking)
+VI  - 104
+DP  - 1963 Jun 9
+TI  - [Leprechaunism (Donohue syndrome)].
+PG  - 1075-80
+FAU - LAKATOS, I
+AU  - LAKATOS I
+FAU - KALLO, A
+AU  - KALLO A
+FAU - SZIJARTO, L
+AU  - SZIJARTO L
+LA  - hun
+PT  - Journal Article
+PL  - Hungary
+TA  - Orv Hetil
+JT  - Orvosi hetilap
+JID - 0376412
+SB  - OM
+MH  - *Donohue Syndrome
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - *Infant, Newborn, Diseases
+MH  - *Polycystic Ovary Syndrome
+OTO - NLM
+OT  - *INFANT, NEWBORN, DISEASES
+OT  - *STEIN-LEVENTHAL SYNDROME
+EDAT- 1963/06/09 00:00
+MHDA- 1963/06/09 00:01
+CRDT- 1963/06/09 00:00
+PHST- 1963/06/09 00:00 [pubmed]
+PHST- 1963/06/09 00:01 [medline]
+PHST- 1963/06/09 00:00 [entrez]
+PST - ppublish
+SO  - Orv Hetil. 1963 Jun 9;104:1075-80.
+
+PMID- 14484402
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19981101
+LR  - 20061115
+IS  - 0022-3476 (Print)
+IS  - 0022-3476 (Linking)
+VI  - 60
+DP  - 1962 May
+TI  - Leprechaunism in a male infant.
+PG  - 730-9
+FAU - PATTERSON, J H
+AU  - PATTERSON JH
+FAU - WATKINS, W L
+AU  - WATKINS WL
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr
+JT  - The Journal of pediatrics
+JID - 0375410
+SB  - OM
+MH  - Child
+MH  - *Donohue Syndrome
+MH  - Endocrine Glands/*abnormalities
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - *Metabolic Diseases
+OTO - NLM
+OT  - *ENDOCRINE GLANDS/abnormalities
+OT  - *METABOLIC DISEASES/in infancy and childhood
+EDAT- 1962/05/01 00:00
+MHDA- 1962/05/01 00:01
+CRDT- 1962/05/01 00:00
+PHST- 1962/05/01 00:00 [pubmed]
+PHST- 1962/05/01 00:01 [medline]
+PHST- 1962/05/01 00:00 [entrez]
+PST - ppublish
+SO  - J Pediatr. 1962 May;60:730-9.
+
+PMID- 13275976
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030501
+LR  - 20081120
+IS  - 0003-9888 (Print)
+IS  - 0003-9888 (Linking)
+VI  - 30
+IP  - 154
+DP  - 1955 Dec
+TI  - Leprechaunism.
+PG  - 479-83
+FAU - EVANS, P R
+AU  - EVANS PR
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Arch Dis Child
+JT  - Archives of disease in childhood
+JID - 0372434
+SB  - OM
+MH  - *Donohue Syndrome
+MH  - *Endocrine System Diseases
+MH  - Humans
+PMC - PMC2011837
+OID - CLML: 5629:28114
+OTO - NLM
+OT  - *ENDOCRINE DISEASES
+EDAT- 1955/12/01 00:00
+MHDA- 1955/12/01 00:01
+CRDT- 1955/12/01 00:00
+PHST- 1955/12/01 00:00 [pubmed]
+PHST- 1955/12/01 00:01 [medline]
+PHST- 1955/12/01 00:00 [entrez]
+PST - ppublish
+SO  - Arch Dis Child. 1955 Dec;30(154):479-83.
+
+PMID- 13212592
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030501
+LR  - 20061115
+IS  - 0022-3476 (Print)
+IS  - 0022-3476 (Linking)
+VI  - 45
+IP  - 5
+DP  - 1954 Nov
+TI  - Leprechaunism: a euphemism for a rare familial disorder.
+PG  - 505-19
+FAU - DONOHUE, W L
+AU  - DONOHUE WL
+FAU - UCHIDA, I
+AU  - UCHIDA I
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr
+JT  - The Journal of pediatrics
+JID - 0375410
+SB  - OM
+MH  - *Donohue Syndrome
+MH  - *Endocrine System Diseases
+MH  - *Heredity
+MH  - Humans
+MH  - *Rare Diseases
+OID - CLML: 5527:24372:159:216
+OTO - NLM
+OT  - *ENDOCRINE DISEASES
+OT  - *HEREDITY
+EDAT- 1954/11/01 00:00
+MHDA- 1954/11/01 00:01
+CRDT- 1954/11/01 00:00
+PHST- 1954/11/01 00:00 [pubmed]
+PHST- 1954/11/01 00:01 [medline]
+PHST- 1954/11/01 00:00 [entrez]
+PST - ppublish
+SO  - J Pediatr. 1954 Nov;45(5):505-19.
