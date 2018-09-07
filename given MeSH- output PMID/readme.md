@@ -2,7 +2,9 @@
 # Given MeSH, Output PMID
 For this project, I was asked quantify the relationships between specific MeSH terms and published PubMed documents. 
 
-__Goal:__ Given a list of MeSH terms, identify how many PubMed documents contain that particular MeSH term and the corresponding PMIDs?
+__Goal:__ Given a list of MeSH terms, identify how many PubMed documents contain that particular MeSH term and the corresponding PMIDs
+
+__Packages used:__ readr, data.table, reshape, dplyr, tidyr, plyr, stringr
 
 To begin, the MeSH terms of interest were: 
 
