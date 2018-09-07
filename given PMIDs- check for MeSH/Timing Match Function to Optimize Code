@@ -1,0 +1,46 @@
+# Timing functions to find fastest way to find MH Match
+# Please note the object 'documents' should already be loaded into environment from main code
+
+# Test Strings
+test_test_true <- "IM\nMH  - Animals\nMH  - *Apoptosis/drug effects/radiation effects\nMH  - Cell Survival/drug effects/radiation effects\nMH  - Dimerization\nMH  - Flow Cytometry\nMH  - Fluorescent Dyes/*chemical synthesis/chemistry/pharmacology\nMH  - Glutathione/*metabolism\nMH  - HeLa Cells\nMH  - Humans\nMH  - Light\nMH  - Mice\nMH  - Microscopy, Confocal\nMH "
+test_test_false <- "\nOT  - photodynamic therapy\nOT  - photosensitizers\nOT  - singlet oxygen\nEDAT- 2015/03/27 06:00\nMHDA- 2016/01/27 06:00\nCRDT- 2015/03/27 06:00\nPHST- 2014/12/12 00:00 [received]\nPHST- 2015/01/28 00:00 [revised]\nPHST- 2015/03/27 06:00 [entrez]\nPHST- 2015/03/27 06:00 [pubmed]\nPHST- 2016/01/27 06:00 [medline]\nAID - 10.1002/anie.201411962 [doi]\nPST - ppublish\nSO  - Angew Chem Int Ed Engl. 2015 Apr 27;54(18):5340-4. doi: 10.1002/anie.201411962.\n      Epub 2015 Mar 24.\n"
+
+# Functions to test
+stri_detect_regex(test_test_true, "\nMH ")
+str_match(test_test_true, "\nMH ")
+str_detect(test_test_true, "\nMH ")
+stri_locate_first_regex(test_test_true, "\nMH ")
+stri_match_first_regex(test_test_true, "\nMH ")
+
+# Timing each function
+start.time <- Sys.time()
+replicate(1000,stri_detect_regex(documents[[1]][1], "\nMH "))
+end.time <- Sys.time()
+time.taken <- end.time - start.time
+time.taken
+
+start.time <- Sys.time()
+replicate(1000,str_match(documents[[1]][1], "\nMH "))
+end.time <- Sys.time()
+time.taken <- end.time - start.time
+time.taken
+
+start.time <- Sys.time()
+replicate(1000,str_detect(documents[[1]][1], "\nMH "))
+end.time <- Sys.time()
+time.taken <- end.time - start.time
+time.taken
+
+start.time <- Sys.time()
+replicate(1000,stri_locate_first_regex(documents[[1]][1], "\nMH "))
+end.time <- Sys.time()
+time.taken <- end.time - start.time
+time.taken
+
+start.time <- Sys.time()
+replicate(1000,stri_match_first_regex(documents[[1]][1], "\nMH "))
+end.time <- Sys.time()
+time.taken <- end.time - start.time
+time.taken
+
+# Based on results, chose to use stri_match_first_regex
